@@ -1,0 +1,394 @@
+
+@keyframes run {
+  from {
+    transform: scale(1);
+  }
+
+  to {
+    transform: scale(1.06);
+  }
+}
+
+.top-container>.compare-overlay>.compare-modal {
+
+  .compare-head>.rows-2>.cmp-gap {
+    grid-column: 2;
+    grid-row: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    color: white;
+
+    span {
+      font-size: 0.75rem;
+      font-weight: 700;
+      color: #EFF6FF;
+    }
+
+    strong {
+      font-size: 1.25rem;
+      font-variant-numeric: tabular-nums;
+    }
+  }
+
+  
+
+  .compare-body {
+    flex: 1;
+    min-height: 0;
+    padding: 8px 28px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+    text-align: left;
+
+    h3,
+    h4 {
+      margin: 0;
+      font-size: 16px;
+      color: var(--navy);
+    }
+
+    h4>span {
+      display: inline-block;
+      animation: run 1.2s ease-in-out infinite alternate;
+    }
+
+  }
+
+
+  .st1 {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+
+    >p {
+      margin: -8px 0 0;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    /* 한 줄: 이름 | 막대 | 합계 */
+    .stack-row {
+      display: grid;
+      grid-template-columns: 140px minmax(0, 1fr) 80px;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .stack-name {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--navy);
+    }
+
+    .stack-total {
+      text-align: right;
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--navy);
+      font-variant-numeric: tabular-nums;
+    }
+
+    /* 트랙 = 100점 전체, 조각은 왼쪽부터 이어 붙음 */
+    .stack-track {
+      display: flex;
+      gap: 2px;
+      height: 40px;
+      border-radius: 8px;
+      overflow: hidden;
+      background-color: #E6EDF8;
+    }
+
+    .stack-seg {
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      white-space: nowrap;
+      font-size: 12px;
+      font-weight: 700;
+      font-variant-numeric: tabular-nums;
+      transition: width 0.4s ease;
+      /* 가중치를 바꾸면 부드럽게 변함※추후 */
+    }
+
+    /* 항목별 색 (막대 조각 · 범례 점 공통) */
+    .seg-population {
+      background-color: #1E3A8A;
+      color: #FFFFFF;
+    }
+
+    .seg-single_households {
+      background-color: #2563EB;
+      color: #FFFFFF;
+    }
+
+    .seg-competition {
+      background-color: #3B82F6;
+      color: #0F172A;
+    }
+
+    .seg-related_store_distribution {
+      background-color: #93C5FD;
+      color: #0F172A;
+    }
+
+    .seg-time_population {
+      background-color: #0EA5E9;
+      color: #FFFFFF;
+    }
+
+    /* 범례 */
+    .stack-legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 18px;
+      margin: 0;
+      padding: 0 0 0 152px;
+    
+      list-style: none;
+      font-size: 12px;
+      color: var(--navy);
+
+      li {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+      }
+    }
+
+    .stack-dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 3px;
+    }
+  }
+
+
+  .compare-body>section:has(> .cmp-diff-grid) {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+
+    >div:first-child {
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+
+      p {
+        margin: 0;
+        font-size: 12px;
+        color: var(--muted);
+      }
+    }
+  }
+
+  .cmp-diff-grid {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 10px;
+  }
+
+  .cmp-diff-card {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 12px 14px;
+    border: var(--border);
+    border-radius: 10px;
+
+    .cmp-diff-label {
+      font-size: 13px;
+      color: var(--muted);
+    }
+
+    .cmp-diff-value {
+      font-size: 20px;
+      font-variant-numeric: tabular-nums;
+
+      small {
+        margin-left: 2px;
+        font-size: 13px;
+      }
+    }
+
+    .cmp-diff-win {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      font-weight: 700;
+      color: #1E40AF;
+    }
+  }
+
+ 
+  .cpm-raw .compare-table {
+    thead th {
+      background-color: #EFF6FF;
+      font-size: 12px;
+      color: #1E40AF;
+      text-align: right;
+
+      &:first-child {
+        text-align: left;
+        color: var(--muted);
+      }
+
+      &:last-child {
+        color: var(--muted);
+      }
+    }
+
+    tbody td {
+      text-align: right;
+      font-size: 15px;
+      font-weight: 500;
+      color: var(--text);
+      font-variant-numeric: tabular-nums;
+    }
+
+   
+    tbody tr:first-child td {
+      font-size: 15px;
+      font-weight: 500;
+      color: var(--text);
+    }
+
+    tbody tr:last-child td {
+      font-size: 15px;
+      color: var(--text);
+    }
+
+    td.is-win {
+      font-weight: 700;
+    }
+
+    td.is-win.is-a {
+      color: #1E40AF;
+    }
+
+    td.is-win.is-b {
+      color: #1D4ED8;
+    }
+
+  
+    td.cmp-delta,
+    tbody tr:first-child td.cmp-delta,
+    tbody tr:last-child td.cmp-delta {
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--muted);
+    }
+
+    .cmp-hint {
+      margin-left: 6px;
+      font-size: 11px;
+      color: var(--muted);
+    }
+
+    .cmp-chip {
+      margin-left: 6px;
+      padding: 2px 8px;
+      border-radius: 999px;
+      background-color: #2563EB;
+      color: white;
+      font-size: 11px;
+      font-weight: 700;
+      vertical-align: 2px;
+    }
+  }
+
+  /* =====  추천 근거 (.cmp-respons) ===== ※사용미정 */
+  .cmp-respons {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+
+    .cmp-reason-col {
+      padding: 12px 14px;
+      border: var(--border);
+      border-radius: 10px;
+
+      ul {
+        margin: 8px 0 0;
+        padding-left: 18px;
+        font-size: 13px;
+        line-height: 1.7;
+      }
+    }
+
+    .cmp-reason-title {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 14px;
+      font-weight: 700;
+    }
+  }
+
+ 
+  .cmp-foot {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 14px 28px;
+    border-top: var(--border);
+
+    >span {
+      margin-right: auto;
+      font-size: 13px;
+      color: var(--muted);
+      text-align: left;
+    }
+
+    .cmp-foot-close {
+      height: 40px;
+      padding: 0 20px;
+      border: none;
+      border-radius: 8px;
+      background-color: #2a8dff;
+      color: white;
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+
+      &:hover,
+      &:focus-visible {
+        background-color: #2563EB;
+      }
+    }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .top-container>.compare-overlay>.compare-modal .stack-seg {
+    transition: none;
+  }
+}
+
+/* 좁은 화면: 차이 카드 2열, 추천 근거 1열 ※사용미정*/
+@media (max-width: 900px) {
+  .top-container>.compare-overlay>.compare-modal {
+    .cmp-diff-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .cmp-respons {
+      grid-template-columns: 1fr;
+    }
+  }
+}
+
+/* 하단 비교 바 칩 안의 핀 배지 정렬  */
+.compare-float .compare-after {
+  align-items: center;
+}

@@ -1,0 +1,5576 @@
+{
+ "FOOD_KOREAN": {
+  "region": "춘천시",
+  "boundary_unit": "행정동",
+  "industry": "식당·간이음식",
+  "sub_industry": "한식",
+  "weights": {
+   "population": 0.3,
+   "single_households": 0.2,
+   "competition": 0.3,
+   "related_store_distribution": 0.2
+  },
+  "data_note": "목데이터 · 실제 통계값 아님 (데이터 기준일 [기준일])",
+  "recommendations": [
+   {
+    "rank": 1,
+    "admin_dong": "약사명동",
+    "score": 74.45,
+    "population": 56618,
+    "single_households": 4520,
+    "selected_category_store_count": 40,
+    "related_store_count": 226,
+    "population_score": 96.51,
+    "single_household_score": 55.71,
+    "competition_score": 55.56,
+    "related_store_score": 88.43,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 2,
+    "admin_dong": "후평2동",
+    "score": 67.3,
+    "population": 32110,
+    "single_households": 4545,
+    "selected_category_store_count": 25,
+    "related_store_count": 240,
+    "population_score": 51.95,
+    "single_household_score": 56.04,
+    "competition_score": 72.22,
+    "related_store_score": 94.21,
+    "reasons": [
+     "동일 업종(한식) 점포가 적음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 3,
+    "admin_dong": "신사우동",
+    "score": 66.14,
+    "population": 58535,
+    "single_households": 7904,
+    "selected_category_store_count": 82,
+    "related_store_count": 175,
+    "population_score": 100.0,
+    "single_household_score": 100.0,
+    "competition_score": 8.89,
+    "related_store_score": 67.36,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "1인 가구 비중이 높음",
+     "동일 업종(한식) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 4,
+    "admin_dong": "조운동",
+    "score": 62.67,
+    "population": 45493,
+    "single_households": 3393,
+    "selected_category_store_count": 53,
+    "related_store_count": 245,
+    "population_score": 76.29,
+    "single_household_score": 40.96,
+    "competition_score": 41.11,
+    "related_store_score": 96.28,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 5,
+    "admin_dong": "강남동",
+    "score": 61.62,
+    "population": 37213,
+    "single_households": 4835,
+    "selected_category_store_count": 14,
+    "related_store_count": 84,
+    "population_score": 61.23,
+    "single_household_score": 59.84,
+    "competition_score": 84.44,
+    "related_store_score": 29.75,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(한식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 6,
+    "admin_dong": "효자1동",
+    "score": 59.74,
+    "population": 42898,
+    "single_households": 2717,
+    "selected_category_store_count": 50,
+    "related_store_count": 236,
+    "population_score": 71.57,
+    "single_household_score": 32.12,
+    "competition_score": 44.44,
+    "related_store_score": 92.56,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 7,
+    "admin_dong": "석사동",
+    "score": 59.64,
+    "population": 53142,
+    "single_households": 3501,
+    "selected_category_store_count": 39,
+    "related_store_count": 98,
+    "population_score": 90.19,
+    "single_household_score": 42.38,
+    "competition_score": 56.67,
+    "related_store_score": 35.54,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 8,
+    "admin_dong": "효자2동",
+    "score": 58.87,
+    "population": 40541,
+    "single_households": 4436,
+    "selected_category_store_count": 31,
+    "related_store_count": 110,
+    "population_score": 67.28,
+    "single_household_score": 54.61,
+    "competition_score": 65.56,
+    "related_store_score": 40.5,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 9,
+    "admin_dong": "교동",
+    "score": 53.14,
+    "population": 41700,
+    "single_households": 4463,
+    "selected_category_store_count": 86,
+    "related_store_count": 254,
+    "population_score": 69.39,
+    "single_household_score": 54.97,
+    "competition_score": 4.44,
+    "related_store_score": 100.0,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(한식) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 10,
+    "admin_dong": "후평1동",
+    "score": 47.06,
+    "population": 40298,
+    "single_households": 3216,
+    "selected_category_store_count": 51,
+    "related_store_count": 88,
+    "population_score": 66.84,
+    "single_household_score": 38.65,
+    "competition_score": 43.33,
+    "related_store_score": 31.4,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 11,
+    "admin_dong": "후평3동",
+    "score": 40.74,
+    "population": 40059,
+    "single_households": 2557,
+    "selected_category_store_count": 52,
+    "related_store_count": 38,
+    "population_score": 66.41,
+    "single_household_score": 30.02,
+    "competition_score": 42.22,
+    "related_store_score": 10.74,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 12,
+    "admin_dong": "근화동",
+    "score": 40.24,
+    "population": 18425,
+    "single_households": 2276,
+    "selected_category_store_count": 63,
+    "related_store_count": 228,
+    "population_score": 27.07,
+    "single_household_score": 26.34,
+    "competition_score": 30.0,
+    "related_store_score": 89.26,
+    "reasons": [
+     "동일 업종(한식) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 13,
+    "admin_dong": "동면",
+    "score": 39.7,
+    "population": 14149,
+    "single_households": 1125,
+    "selected_category_store_count": 1,
+    "related_store_count": 36,
+    "population_score": 19.3,
+    "single_household_score": 11.28,
+    "competition_score": 98.89,
+    "related_store_score": 9.92,
+    "reasons": [
+     "동일 업종(한식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 14,
+    "admin_dong": "북산면",
+    "score": 38.69,
+    "population": 12647,
+    "single_households": 1496,
+    "selected_category_store_count": 1,
+    "related_store_count": 22,
+    "population_score": 16.57,
+    "single_household_score": 16.14,
+    "competition_score": 98.89,
+    "related_store_score": 4.13,
+    "reasons": [
+     "동일 업종(한식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 15,
+    "admin_dong": "서면",
+    "score": 37.66,
+    "population": 10279,
+    "single_households": 1123,
+    "selected_category_store_count": 1,
+    "related_store_count": 37,
+    "population_score": 12.26,
+    "single_household_score": 11.26,
+    "competition_score": 98.89,
+    "related_store_score": 10.33,
+    "reasons": [
+     "동일 업종(한식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 16,
+    "admin_dong": "동내면",
+    "score": 35.7,
+    "population": 10935,
+    "single_households": 682,
+    "selected_category_store_count": 3,
+    "related_store_count": 31,
+    "population_score": 13.45,
+    "single_household_score": 5.48,
+    "competition_score": 96.67,
+    "related_store_score": 7.85,
+    "reasons": [
+     "동일 업종(한식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 17,
+    "admin_dong": "사북면",
+    "score": 34.95,
+    "population": 11195,
+    "single_households": 812,
+    "selected_category_store_count": 3,
+    "related_store_count": 16,
+    "population_score": 13.93,
+    "single_household_score": 7.18,
+    "competition_score": 96.67,
+    "related_store_score": 1.65,
+    "reasons": [
+     "동일 업종(한식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 18,
+    "admin_dong": "신북읍",
+    "score": 32.63,
+    "population": 12476,
+    "single_households": 806,
+    "selected_category_store_count": 11,
+    "related_store_count": 12,
+    "population_score": 16.26,
+    "single_household_score": 7.11,
+    "competition_score": 87.78,
+    "related_store_score": 0.0,
+    "reasons": [
+     "동일 업종(한식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 19,
+    "admin_dong": "동산면",
+    "score": 31.88,
+    "population": 5657,
+    "single_households": 380,
+    "selected_category_store_count": 0,
+    "related_store_count": 17,
+    "population_score": 3.86,
+    "single_household_score": 1.53,
+    "competition_score": 100.0,
+    "related_store_score": 2.07,
+    "reasons": [
+     "동일 업종(한식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 20,
+    "admin_dong": "퇴계동",
+    "score": 31.46,
+    "population": 42807,
+    "single_households": 2641,
+    "selected_category_store_count": 87,
+    "related_store_count": 46,
+    "population_score": 71.4,
+    "single_household_score": 31.12,
+    "competition_score": 3.33,
+    "related_store_score": 14.05,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(한식) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 21,
+    "admin_dong": "남면",
+    "score": 30.74,
+    "population": 8912,
+    "single_households": 511,
+    "selected_category_store_count": 12,
+    "related_store_count": 26,
+    "population_score": 9.78,
+    "single_household_score": 3.25,
+    "competition_score": 86.67,
+    "related_store_score": 5.79,
+    "reasons": [
+     "동일 업종(한식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 22,
+    "admin_dong": "남산면",
+    "score": 29.25,
+    "population": 3535,
+    "single_households": 263,
+    "selected_category_store_count": 4,
+    "related_store_count": 19,
+    "population_score": 0.0,
+    "single_household_score": 0.0,
+    "competition_score": 95.56,
+    "related_store_score": 2.89,
+    "reasons": [
+     "동일 업종(한식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 23,
+    "admin_dong": "신동면",
+    "score": 27.17,
+    "population": 3679,
+    "single_households": 426,
+    "selected_category_store_count": 10,
+    "related_store_count": 12,
+    "population_score": 0.26,
+    "single_household_score": 2.13,
+    "competition_score": 88.89,
+    "related_store_score": 0.0,
+    "reasons": [
+     "동일 업종(한식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 24,
+    "admin_dong": "소양동",
+    "score": 25.68,
+    "population": 28463,
+    "single_households": 3358,
+    "selected_category_store_count": 86,
+    "related_store_count": 44,
+    "population_score": 45.32,
+    "single_household_score": 40.51,
+    "competition_score": 4.44,
+    "related_store_score": 13.22,
+    "reasons": [
+     "동일 업종(한식) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 25,
+    "admin_dong": "효자3동",
+    "score": 25.27,
+    "population": 20847,
+    "single_households": 2520,
+    "selected_category_store_count": 90,
+    "related_store_count": 132,
+    "population_score": 31.48,
+    "single_household_score": 29.54,
+    "competition_score": 0.0,
+    "related_store_score": 49.59,
+    "reasons": [
+     "동일 업종(한식) 경쟁이 치열함"
+    ]
+   }
+  ]
+ },
+ "FOOD_SNACK": {
+  "region": "춘천시",
+  "boundary_unit": "행정동",
+  "industry": "식당·간이음식",
+  "sub_industry": "분식",
+  "weights": {
+   "population": 0.3,
+   "single_households": 0.2,
+   "competition": 0.3,
+   "related_store_distribution": 0.2
+  },
+  "data_note": "목데이터 · 실제 통계값 아님 (데이터 기준일 [기준일])",
+  "recommendations": [
+   {
+    "rank": 1,
+    "admin_dong": "교동",
+    "score": 73.97,
+    "population": 41700,
+    "single_households": 4463,
+    "selected_category_store_count": 16,
+    "related_store_count": 226,
+    "population_score": 69.39,
+    "single_household_score": 54.97,
+    "competition_score": 81.82,
+    "related_store_score": 88.05,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(분식) 점포가 적음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 2,
+    "admin_dong": "석사동",
+    "score": 73.46,
+    "population": 53142,
+    "single_households": 3501,
+    "selected_category_store_count": 33,
+    "related_store_count": 256,
+    "population_score": 90.19,
+    "single_household_score": 42.38,
+    "competition_score": 59.74,
+    "related_store_score": 100.0,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 3,
+    "admin_dong": "약사명동",
+    "score": 69.6,
+    "population": 56618,
+    "single_households": 4520,
+    "selected_category_store_count": 36,
+    "related_store_count": 165,
+    "population_score": 96.51,
+    "single_household_score": 55.71,
+    "competition_score": 55.84,
+    "related_store_score": 63.75,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 4,
+    "admin_dong": "조운동",
+    "score": 64.76,
+    "population": 45493,
+    "single_households": 3393,
+    "selected_category_store_count": 22,
+    "related_store_count": 149,
+    "population_score": 76.29,
+    "single_household_score": 40.96,
+    "competition_score": 74.03,
+    "related_store_score": 57.37,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(분식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 5,
+    "admin_dong": "후평1동",
+    "score": 63.28,
+    "population": 40298,
+    "single_households": 3216,
+    "selected_category_store_count": 38,
+    "related_store_count": 250,
+    "population_score": 66.84,
+    "single_household_score": 38.65,
+    "competition_score": 53.25,
+    "related_store_score": 97.61,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 6,
+    "admin_dong": "퇴계동",
+    "score": 62.76,
+    "population": 42807,
+    "single_households": 2641,
+    "selected_category_store_count": 22,
+    "related_store_count": 167,
+    "population_score": 71.4,
+    "single_household_score": 31.12,
+    "competition_score": 74.03,
+    "related_store_score": 64.54,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(분식) 점포가 적음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 7,
+    "admin_dong": "신사우동",
+    "score": 61.7,
+    "population": 58535,
+    "single_households": 7904,
+    "selected_category_store_count": 68,
+    "related_store_count": 98,
+    "population_score": 100.0,
+    "single_household_score": 100.0,
+    "competition_score": 14.29,
+    "related_store_score": 37.05,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "1인 가구 비중이 높음",
+     "동일 업종(분식) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 8,
+    "admin_dong": "강남동",
+    "score": 51.13,
+    "population": 37213,
+    "single_households": 4835,
+    "selected_category_store_count": 70,
+    "related_store_count": 222,
+    "population_score": 61.23,
+    "single_household_score": 59.84,
+    "competition_score": 11.69,
+    "related_store_score": 86.45,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(분식) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 9,
+    "admin_dong": "후평3동",
+    "score": 49.58,
+    "population": 40059,
+    "single_households": 2557,
+    "selected_category_store_count": 59,
+    "related_store_count": 204,
+    "population_score": 66.41,
+    "single_household_score": 30.02,
+    "competition_score": 25.97,
+    "related_store_score": 79.28,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(분식) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 10,
+    "admin_dong": "효자1동",
+    "score": 44.55,
+    "population": 42898,
+    "single_households": 2717,
+    "selected_category_store_count": 79,
+    "related_store_count": 214,
+    "population_score": 71.57,
+    "single_household_score": 32.12,
+    "competition_score": 0.0,
+    "related_store_score": 83.27,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(분식) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 11,
+    "admin_dong": "효자2동",
+    "score": 44.37,
+    "population": 40541,
+    "single_households": 4436,
+    "selected_category_store_count": 56,
+    "related_store_count": 59,
+    "population_score": 67.28,
+    "single_household_score": 54.61,
+    "competition_score": 29.87,
+    "related_store_score": 21.51,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(분식) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 12,
+    "admin_dong": "효자3동",
+    "score": 42.12,
+    "population": 20847,
+    "single_households": 2520,
+    "selected_category_store_count": 51,
+    "related_store_count": 204,
+    "population_score": 31.48,
+    "single_household_score": 29.54,
+    "competition_score": 36.36,
+    "related_store_score": 79.28,
+    "reasons": [
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 13,
+    "admin_dong": "북산면",
+    "score": 40.21,
+    "population": 12647,
+    "single_households": 1496,
+    "selected_category_store_count": 4,
+    "related_store_count": 40,
+    "population_score": 16.57,
+    "single_household_score": 16.14,
+    "competition_score": 97.4,
+    "related_store_score": 13.94,
+    "reasons": [
+     "동일 업종(분식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 14,
+    "admin_dong": "사북면",
+    "score": 37.29,
+    "population": 11195,
+    "single_households": 812,
+    "selected_category_store_count": 2,
+    "related_store_count": 26,
+    "population_score": 13.93,
+    "single_household_score": 7.18,
+    "competition_score": 100.0,
+    "related_store_score": 8.37,
+    "reasons": [
+     "동일 업종(분식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 15,
+    "admin_dong": "소양동",
+    "score": 37.26,
+    "population": 28463,
+    "single_households": 3358,
+    "selected_category_store_count": 73,
+    "related_store_count": 171,
+    "population_score": 45.32,
+    "single_household_score": 40.51,
+    "competition_score": 7.79,
+    "related_store_score": 66.14,
+    "reasons": [
+     "동일 업종(분식) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 16,
+    "admin_dong": "동면",
+    "score": 37.2,
+    "population": 14149,
+    "single_households": 1125,
+    "selected_category_store_count": 5,
+    "related_store_count": 9,
+    "population_score": 19.3,
+    "single_household_score": 11.28,
+    "competition_score": 96.1,
+    "related_store_score": 1.59,
+    "reasons": [
+     "동일 업종(분식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 17,
+    "admin_dong": "서면",
+    "score": 35.65,
+    "population": 10279,
+    "single_households": 1123,
+    "selected_category_store_count": 7,
+    "related_store_count": 26,
+    "population_score": 12.26,
+    "single_household_score": 11.26,
+    "competition_score": 93.51,
+    "related_store_score": 8.37,
+    "reasons": [
+     "동일 업종(분식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 18,
+    "admin_dong": "동내면",
+    "score": 35.1,
+    "population": 10935,
+    "single_households": 682,
+    "selected_category_store_count": 7,
+    "related_store_count": 29,
+    "population_score": 13.45,
+    "single_household_score": 5.48,
+    "competition_score": 93.51,
+    "related_store_score": 9.56,
+    "reasons": [
+     "동일 업종(분식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 19,
+    "admin_dong": "남면",
+    "score": 34.81,
+    "population": 8912,
+    "single_households": 511,
+    "selected_category_store_count": 6,
+    "related_store_count": 40,
+    "population_score": 9.78,
+    "single_household_score": 3.25,
+    "competition_score": 94.81,
+    "related_store_score": 13.94,
+    "reasons": [
+     "동일 업종(분식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 20,
+    "admin_dong": "신북읍",
+    "score": 32.79,
+    "population": 12476,
+    "single_households": 806,
+    "selected_category_store_count": 11,
+    "related_store_count": 5,
+    "population_score": 16.26,
+    "single_household_score": 7.11,
+    "competition_score": 88.31,
+    "related_store_score": 0.0,
+    "reasons": [
+     "동일 업종(분식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 21,
+    "admin_dong": "동산면",
+    "score": 31.55,
+    "population": 5657,
+    "single_households": 380,
+    "selected_category_store_count": 3,
+    "related_store_count": 11,
+    "population_score": 3.86,
+    "single_household_score": 1.53,
+    "competition_score": 98.7,
+    "related_store_score": 2.39,
+    "reasons": [
+     "동일 업종(분식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 22,
+    "admin_dong": "후평2동",
+    "score": 28.95,
+    "population": 32110,
+    "single_households": 4545,
+    "selected_category_store_count": 79,
+    "related_store_count": 32,
+    "population_score": 51.95,
+    "single_household_score": 56.04,
+    "competition_score": 0.0,
+    "related_store_score": 10.76,
+    "reasons": [
+     "동일 업종(분식) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 23,
+    "admin_dong": "신동면",
+    "score": 27.95,
+    "population": 3679,
+    "single_households": 426,
+    "selected_category_store_count": 10,
+    "related_store_count": 12,
+    "population_score": 0.26,
+    "single_household_score": 2.13,
+    "competition_score": 89.61,
+    "related_store_score": 2.79,
+    "reasons": [
+     "동일 업종(분식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 24,
+    "admin_dong": "남산면",
+    "score": 26.96,
+    "population": 3535,
+    "single_households": 263,
+    "selected_category_store_count": 10,
+    "related_store_count": 6,
+    "population_score": 0.0,
+    "single_household_score": 0.0,
+    "competition_score": 89.61,
+    "related_store_score": 0.4,
+    "reasons": [
+     "동일 업종(분식) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 25,
+    "admin_dong": "근화동",
+    "score": 21.65,
+    "population": 18425,
+    "single_households": 2276,
+    "selected_category_store_count": 76,
+    "related_store_count": 94,
+    "population_score": 27.07,
+    "single_household_score": 26.34,
+    "competition_score": 3.9,
+    "related_store_score": 35.46,
+    "reasons": [
+     "동일 업종(분식) 경쟁이 치열함"
+    ]
+   }
+  ]
+ },
+ "FOOD_CHICKEN": {
+  "region": "춘천시",
+  "boundary_unit": "행정동",
+  "industry": "식당·간이음식",
+  "sub_industry": "치킨",
+  "weights": {
+   "population": 0.3,
+   "single_households": 0.2,
+   "competition": 0.3,
+   "related_store_distribution": 0.2
+  },
+  "data_note": "목데이터 · 실제 통계값 아님 (데이터 기준일 [기준일])",
+  "recommendations": [
+   {
+    "rank": 1,
+    "admin_dong": "신사우동",
+    "score": 76.04,
+    "population": 58535,
+    "single_households": 7904,
+    "selected_category_store_count": 25,
+    "related_store_count": 62,
+    "population_score": 100.0,
+    "single_household_score": 100.0,
+    "competition_score": 70.93,
+    "related_store_score": 23.81,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "1인 가구 비중이 높음",
+     "동일 업종(치킨) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 2,
+    "admin_dong": "석사동",
+    "score": 72.69,
+    "population": 53142,
+    "single_households": 3501,
+    "selected_category_store_count": 30,
+    "related_store_count": 224,
+    "population_score": 90.19,
+    "single_household_score": 42.38,
+    "competition_score": 65.12,
+    "related_store_score": 88.1,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 3,
+    "admin_dong": "퇴계동",
+    "score": 62.29,
+    "population": 42807,
+    "single_households": 2641,
+    "selected_category_store_count": 24,
+    "related_store_count": 166,
+    "population_score": 71.4,
+    "single_household_score": 31.12,
+    "competition_score": 72.09,
+    "related_store_score": 65.08,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(치킨) 점포가 적음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 4,
+    "admin_dong": "강남동",
+    "score": 59.98,
+    "population": 37213,
+    "single_households": 4835,
+    "selected_category_store_count": 52,
+    "related_store_count": 226,
+    "population_score": 61.23,
+    "single_household_score": 59.84,
+    "competition_score": 39.53,
+    "related_store_score": 88.89,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 5,
+    "admin_dong": "후평3동",
+    "score": 57.99,
+    "population": 40059,
+    "single_households": 2557,
+    "selected_category_store_count": 43,
+    "related_store_count": 217,
+    "population_score": 66.41,
+    "single_household_score": 30.02,
+    "competition_score": 50.0,
+    "related_store_score": 85.32,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 6,
+    "admin_dong": "효자2동",
+    "score": 55.77,
+    "population": 40541,
+    "single_households": 4436,
+    "selected_category_store_count": 69,
+    "related_store_count": 238,
+    "population_score": 67.28,
+    "single_household_score": 54.61,
+    "competition_score": 19.77,
+    "related_store_score": 93.65,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(치킨) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 7,
+    "admin_dong": "후평1동",
+    "score": 55.31,
+    "population": 40298,
+    "single_households": 3216,
+    "selected_category_store_count": 18,
+    "related_store_count": 50,
+    "population_score": 66.84,
+    "single_household_score": 38.65,
+    "competition_score": 79.07,
+    "related_store_score": 19.05,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(치킨) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 8,
+    "admin_dong": "근화동",
+    "score": 53.97,
+    "population": 18425,
+    "single_households": 2276,
+    "selected_category_store_count": 27,
+    "related_store_count": 254,
+    "population_score": 27.07,
+    "single_household_score": 26.34,
+    "competition_score": 68.6,
+    "related_store_score": 100.0,
+    "reasons": [
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 9,
+    "admin_dong": "약사명동",
+    "score": 53.09,
+    "population": 56618,
+    "single_households": 4520,
+    "selected_category_store_count": 69,
+    "related_store_count": 91,
+    "population_score": 96.51,
+    "single_household_score": 55.71,
+    "competition_score": 19.77,
+    "related_store_score": 35.32,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(치킨) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 10,
+    "admin_dong": "조운동",
+    "score": 51.16,
+    "population": 45493,
+    "single_households": 3393,
+    "selected_category_store_count": 38,
+    "related_store_count": 44,
+    "population_score": 76.29,
+    "single_household_score": 40.96,
+    "competition_score": 55.81,
+    "related_store_score": 16.67,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 11,
+    "admin_dong": "소양동",
+    "score": 41.36,
+    "population": 28463,
+    "single_households": 3358,
+    "selected_category_store_count": 69,
+    "related_store_count": 175,
+    "population_score": 45.32,
+    "single_household_score": 40.51,
+    "competition_score": 19.77,
+    "related_store_score": 68.65,
+    "reasons": [
+     "동일 업종(치킨) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 12,
+    "admin_dong": "교동",
+    "score": 40.76,
+    "population": 41700,
+    "single_households": 4463,
+    "selected_category_store_count": 74,
+    "related_store_count": 62,
+    "population_score": 69.39,
+    "single_household_score": 54.97,
+    "competition_score": 13.95,
+    "related_store_score": 23.81,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(치킨) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 13,
+    "admin_dong": "효자1동",
+    "score": 39.96,
+    "population": 42898,
+    "single_households": 2717,
+    "selected_category_store_count": 86,
+    "related_store_count": 154,
+    "population_score": 71.57,
+    "single_household_score": 32.12,
+    "competition_score": 0.0,
+    "related_store_score": 60.32,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(치킨) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 14,
+    "admin_dong": "서면",
+    "score": 37.75,
+    "population": 10279,
+    "single_households": 1123,
+    "selected_category_store_count": 0,
+    "related_store_count": 25,
+    "population_score": 12.26,
+    "single_household_score": 11.26,
+    "competition_score": 100.0,
+    "related_store_score": 9.13,
+    "reasons": [
+     "동일 업종(치킨) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 15,
+    "admin_dong": "동면",
+    "score": 36.3,
+    "population": 14149,
+    "single_households": 1125,
+    "selected_category_store_count": 5,
+    "related_store_count": 2,
+    "population_score": 19.3,
+    "single_household_score": 11.28,
+    "competition_score": 94.19,
+    "related_store_score": 0.0,
+    "reasons": [
+     "동일 업종(치킨) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 16,
+    "admin_dong": "북산면",
+    "score": 35.55,
+    "population": 12647,
+    "single_households": 1496,
+    "selected_category_store_count": 11,
+    "related_store_count": 17,
+    "population_score": 16.57,
+    "single_household_score": 16.14,
+    "competition_score": 87.21,
+    "related_store_score": 5.95,
+    "reasons": [
+     "동일 업종(치킨) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 17,
+    "admin_dong": "동내면",
+    "score": 35.5,
+    "population": 10935,
+    "single_households": 682,
+    "selected_category_store_count": 6,
+    "related_store_count": 33,
+    "population_score": 13.45,
+    "single_household_score": 5.48,
+    "competition_score": 93.02,
+    "related_store_score": 12.3,
+    "reasons": [
+     "동일 업종(치킨) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 18,
+    "admin_dong": "신북읍",
+    "score": 35.43,
+    "population": 12476,
+    "single_households": 806,
+    "selected_category_store_count": 10,
+    "related_store_count": 35,
+    "population_score": 16.26,
+    "single_household_score": 7.11,
+    "competition_score": 88.37,
+    "related_store_score": 13.1,
+    "reasons": [
+     "동일 업종(치킨) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 19,
+    "admin_dong": "동산면",
+    "score": 34.13,
+    "population": 5657,
+    "single_households": 380,
+    "selected_category_store_count": 1,
+    "related_store_count": 40,
+    "population_score": 3.86,
+    "single_household_score": 1.53,
+    "competition_score": 98.84,
+    "related_store_score": 15.08,
+    "reasons": [
+     "동일 업종(치킨) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 20,
+    "admin_dong": "사북면",
+    "score": 33.29,
+    "population": 11195,
+    "single_households": 812,
+    "selected_category_store_count": 11,
+    "related_store_count": 21,
+    "population_score": 13.93,
+    "single_household_score": 7.18,
+    "competition_score": 87.21,
+    "related_store_score": 7.54,
+    "reasons": [
+     "동일 업종(치킨) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 21,
+    "admin_dong": "남면",
+    "score": 32.96,
+    "population": 8912,
+    "single_households": 511,
+    "selected_category_store_count": 2,
+    "related_store_count": 3,
+    "population_score": 9.78,
+    "single_household_score": 3.25,
+    "competition_score": 97.67,
+    "related_store_score": 0.4,
+    "reasons": [
+     "동일 업종(치킨) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 22,
+    "admin_dong": "후평2동",
+    "score": 31.03,
+    "population": 32110,
+    "single_households": 4545,
+    "selected_category_store_count": 85,
+    "related_store_count": 51,
+    "population_score": 51.95,
+    "single_household_score": 56.04,
+    "competition_score": 1.16,
+    "related_store_score": 19.44,
+    "reasons": [
+     "동일 업종(치킨) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 23,
+    "admin_dong": "신동면",
+    "score": 30.7,
+    "population": 3679,
+    "single_households": 426,
+    "selected_category_store_count": 4,
+    "related_store_count": 22,
+    "population_score": 0.26,
+    "single_household_score": 2.13,
+    "competition_score": 95.35,
+    "related_store_score": 7.94,
+    "reasons": [
+     "동일 업종(치킨) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 24,
+    "admin_dong": "남산면",
+    "score": 28.11,
+    "population": 3535,
+    "single_households": 263,
+    "selected_category_store_count": 7,
+    "related_store_count": 9,
+    "population_score": 0.0,
+    "single_household_score": 0.0,
+    "competition_score": 91.86,
+    "related_store_score": 2.78,
+    "reasons": [
+     "동일 업종(치킨) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 25,
+    "admin_dong": "효자3동",
+    "score": 20.32,
+    "population": 20847,
+    "single_households": 2520,
+    "selected_category_store_count": 82,
+    "related_store_count": 47,
+    "population_score": 31.48,
+    "single_household_score": 29.54,
+    "competition_score": 4.65,
+    "related_store_score": 17.86,
+    "reasons": [
+     "동일 업종(치킨) 경쟁이 치열함"
+    ]
+   }
+  ]
+ },
+ "FOOD_PIZZA": {
+  "region": "춘천시",
+  "boundary_unit": "행정동",
+  "industry": "식당·간이음식",
+  "sub_industry": "피자·버거",
+  "weights": {
+   "population": 0.3,
+   "single_households": 0.2,
+   "competition": 0.3,
+   "related_store_distribution": 0.2
+  },
+  "data_note": "목데이터 · 실제 통계값 아님 (데이터 기준일 [기준일])",
+  "recommendations": [
+   {
+    "rank": 1,
+    "admin_dong": "신사우동",
+    "score": 84.32,
+    "population": 58535,
+    "single_households": 7904,
+    "selected_category_store_count": 48,
+    "related_store_count": 255,
+    "population_score": 100.0,
+    "single_household_score": 100.0,
+    "competition_score": 47.73,
+    "related_store_score": 100.0,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "1인 가구 비중이 높음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 2,
+    "admin_dong": "약사명동",
+    "score": 75.38,
+    "population": 56618,
+    "single_households": 4520,
+    "selected_category_store_count": 44,
+    "related_store_count": 250,
+    "population_score": 96.51,
+    "single_household_score": 55.71,
+    "competition_score": 52.27,
+    "related_store_score": 98.02,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 3,
+    "admin_dong": "교동",
+    "score": 73.86,
+    "population": 41700,
+    "single_households": 4463,
+    "selected_category_store_count": 7,
+    "related_store_count": 176,
+    "population_score": 69.39,
+    "single_household_score": 54.97,
+    "competition_score": 94.32,
+    "related_store_score": 68.77,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(피자·버거) 점포가 적음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 4,
+    "admin_dong": "강남동",
+    "score": 73.42,
+    "population": 37213,
+    "single_households": 4835,
+    "selected_category_store_count": 13,
+    "related_store_count": 215,
+    "population_score": 61.23,
+    "single_household_score": 59.84,
+    "competition_score": 87.5,
+    "related_store_score": 84.19,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(피자·버거) 점포가 적음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 5,
+    "admin_dong": "석사동",
+    "score": 67.07,
+    "population": 53142,
+    "single_households": 3501,
+    "selected_category_store_count": 36,
+    "related_store_count": 168,
+    "population_score": 90.19,
+    "single_household_score": 42.38,
+    "competition_score": 61.36,
+    "related_store_score": 65.61,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 6,
+    "admin_dong": "조운동",
+    "score": 54.38,
+    "population": 45493,
+    "single_households": 3393,
+    "selected_category_store_count": 30,
+    "related_store_count": 38,
+    "population_score": 76.29,
+    "single_household_score": 40.96,
+    "competition_score": 68.18,
+    "related_store_score": 14.23,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 7,
+    "admin_dong": "효자2동",
+    "score": 52.67,
+    "population": 40541,
+    "single_households": 4436,
+    "selected_category_store_count": 62,
+    "related_store_count": 154,
+    "population_score": 67.28,
+    "single_household_score": 54.61,
+    "competition_score": 31.82,
+    "related_store_score": 60.08,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 8,
+    "admin_dong": "퇴계동",
+    "score": 51.9,
+    "population": 42807,
+    "single_households": 2641,
+    "selected_category_store_count": 33,
+    "related_store_count": 63,
+    "population_score": 71.4,
+    "single_household_score": 31.12,
+    "competition_score": 64.77,
+    "related_store_score": 24.11,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 9,
+    "admin_dong": "효자1동",
+    "score": 50.1,
+    "population": 42898,
+    "single_households": 2717,
+    "selected_category_store_count": 71,
+    "related_store_count": 201,
+    "population_score": 71.57,
+    "single_household_score": 32.12,
+    "competition_score": 21.59,
+    "related_store_score": 78.66,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(피자·버거) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 10,
+    "admin_dong": "후평2동",
+    "score": 46.71,
+    "population": 32110,
+    "single_households": 4545,
+    "selected_category_store_count": 52,
+    "related_store_count": 90,
+    "population_score": 51.95,
+    "single_household_score": 56.04,
+    "competition_score": 43.18,
+    "related_store_score": 34.78,
+    "reasons": [
+     "뚜렷한 강점이 적음"
+    ]
+   },
+   {
+    "rank": 11,
+    "admin_dong": "효자3동",
+    "score": 45.7,
+    "population": 20847,
+    "single_households": 2520,
+    "selected_category_store_count": 20,
+    "related_store_count": 84,
+    "population_score": 31.48,
+    "single_household_score": 29.54,
+    "competition_score": 79.55,
+    "related_store_score": 32.41,
+    "reasons": [
+     "동일 업종(피자·버거) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 12,
+    "admin_dong": "후평3동",
+    "score": 43.64,
+    "population": 40059,
+    "single_households": 2557,
+    "selected_category_store_count": 61,
+    "related_store_count": 101,
+    "population_score": 66.41,
+    "single_household_score": 30.02,
+    "competition_score": 32.95,
+    "related_store_score": 39.13,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 13,
+    "admin_dong": "후평1동",
+    "score": 41.03,
+    "population": 40298,
+    "single_households": 3216,
+    "selected_category_store_count": 88,
+    "related_store_count": 161,
+    "population_score": 66.84,
+    "single_household_score": 38.65,
+    "competition_score": 2.27,
+    "related_store_score": 62.85,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(피자·버거) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 14,
+    "admin_dong": "동면",
+    "score": 39.11,
+    "population": 14149,
+    "single_households": 1125,
+    "selected_category_store_count": 7,
+    "related_store_count": 37,
+    "population_score": 19.3,
+    "single_household_score": 11.28,
+    "competition_score": 94.32,
+    "related_store_score": 13.83,
+    "reasons": [
+     "동일 업종(피자·버거) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 15,
+    "admin_dong": "신북읍",
+    "score": 36.5,
+    "population": 12476,
+    "single_households": 806,
+    "selected_category_store_count": 10,
+    "related_store_count": 39,
+    "population_score": 16.26,
+    "single_household_score": 7.11,
+    "competition_score": 90.91,
+    "related_store_score": 14.62,
+    "reasons": [
+     "동일 업종(피자·버거) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 16,
+    "admin_dong": "북산면",
+    "score": 36.47,
+    "population": 12647,
+    "single_households": 1496,
+    "selected_category_store_count": 8,
+    "related_store_count": 6,
+    "population_score": 16.57,
+    "single_household_score": 16.14,
+    "competition_score": 93.18,
+    "related_store_score": 1.58,
+    "reasons": [
+     "동일 업종(피자·버거) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 17,
+    "admin_dong": "사북면",
+    "score": 36.38,
+    "population": 11195,
+    "single_households": 812,
+    "selected_category_store_count": 3,
+    "related_store_count": 16,
+    "population_score": 13.93,
+    "single_household_score": 7.18,
+    "competition_score": 98.86,
+    "related_store_score": 5.53,
+    "reasons": [
+     "동일 업종(피자·버거) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 18,
+    "admin_dong": "동내면",
+    "score": 35.56,
+    "population": 10935,
+    "single_households": 682,
+    "selected_category_store_count": 4,
+    "related_store_count": 16,
+    "population_score": 13.45,
+    "single_household_score": 5.48,
+    "competition_score": 97.73,
+    "related_store_score": 5.53,
+    "reasons": [
+     "동일 업종(피자·버거) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 19,
+    "admin_dong": "서면",
+    "score": 34.8,
+    "population": 10279,
+    "single_households": 1123,
+    "selected_category_store_count": 6,
+    "related_store_count": 5,
+    "population_score": 12.26,
+    "single_household_score": 11.26,
+    "competition_score": 95.45,
+    "related_store_score": 1.19,
+    "reasons": [
+     "동일 업종(피자·버거) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 20,
+    "admin_dong": "근화동",
+    "score": 33.84,
+    "population": 18425,
+    "single_households": 2276,
+    "selected_category_store_count": 56,
+    "related_store_count": 114,
+    "population_score": 27.07,
+    "single_household_score": 26.34,
+    "competition_score": 38.64,
+    "related_store_score": 44.27,
+    "reasons": [
+     "뚜렷한 강점이 적음"
+    ]
+   },
+   {
+    "rank": 21,
+    "admin_dong": "신동면",
+    "score": 33.43,
+    "population": 3679,
+    "single_households": 426,
+    "selected_category_store_count": 2,
+    "related_store_count": 39,
+    "population_score": 0.26,
+    "single_household_score": 2.13,
+    "competition_score": 100.0,
+    "related_store_score": 14.62,
+    "reasons": [
+     "동일 업종(피자·버거) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 22,
+    "admin_dong": "남면",
+    "score": 31.54,
+    "population": 8912,
+    "single_households": 511,
+    "selected_category_store_count": 8,
+    "related_store_count": 2,
+    "population_score": 9.78,
+    "single_household_score": 3.25,
+    "competition_score": 93.18,
+    "related_store_score": 0.0,
+    "reasons": [
+     "동일 업종(피자·버거) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 23,
+    "admin_dong": "동산면",
+    "score": 30.52,
+    "population": 5657,
+    "single_households": 380,
+    "selected_category_store_count": 8,
+    "related_store_count": 16,
+    "population_score": 3.86,
+    "single_household_score": 1.53,
+    "competition_score": 93.18,
+    "related_store_score": 5.53,
+    "reasons": [
+     "동일 업종(피자·버거) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 24,
+    "admin_dong": "남산면",
+    "score": 27.93,
+    "population": 3535,
+    "single_households": 263,
+    "selected_category_store_count": 9,
+    "related_store_count": 6,
+    "population_score": 0.0,
+    "single_household_score": 0.0,
+    "competition_score": 92.05,
+    "related_store_score": 1.58,
+    "reasons": [
+     "동일 업종(피자·버거) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 25,
+    "admin_dong": "소양동",
+    "score": 25.33,
+    "population": 28463,
+    "single_households": 3358,
+    "selected_category_store_count": 90,
+    "related_store_count": 48,
+    "population_score": 45.32,
+    "single_household_score": 40.51,
+    "competition_score": 0.0,
+    "related_store_score": 18.18,
+    "reasons": [
+     "동일 업종(피자·버거) 경쟁이 치열함"
+    ]
+   }
+  ]
+ },
+ "CAFE_COFFEE": {
+  "region": "춘천시",
+  "boundary_unit": "행정동",
+  "industry": "카페",
+  "sub_industry": "커피전문점",
+  "weights": {
+   "population": 0.3,
+   "single_households": 0.2,
+   "competition": 0.3,
+   "related_store_distribution": 0.2
+  },
+  "data_note": "목데이터 · 실제 통계값 아님 (데이터 기준일 [기준일])",
+  "recommendations": [
+   {
+    "rank": 1,
+    "admin_dong": "신사우동",
+    "score": 77.74,
+    "population": 58535,
+    "single_households": 7904,
+    "selected_category_store_count": 18,
+    "related_store_count": 53,
+    "population_score": 100.0,
+    "single_household_score": 100.0,
+    "competition_score": 80.68,
+    "related_store_score": 17.7,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "1인 가구 비중이 높음",
+     "동일 업종(커피전문점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 2,
+    "admin_dong": "석사동",
+    "score": 74.79,
+    "population": 53142,
+    "single_households": 3501,
+    "selected_category_store_count": 12,
+    "related_store_count": 168,
+    "population_score": 90.19,
+    "single_household_score": 42.38,
+    "competition_score": 87.5,
+    "related_store_score": 65.02,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(커피전문점) 점포가 적음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 3,
+    "admin_dong": "교동",
+    "score": 67.33,
+    "population": 41700,
+    "single_households": 4463,
+    "selected_category_store_count": 36,
+    "related_store_count": 222,
+    "population_score": 69.39,
+    "single_household_score": 54.97,
+    "competition_score": 60.23,
+    "related_store_score": 87.24,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 4,
+    "admin_dong": "후평3동",
+    "score": 65.69,
+    "population": 40059,
+    "single_households": 2557,
+    "selected_category_store_count": 11,
+    "related_store_count": 170,
+    "population_score": 66.41,
+    "single_household_score": 30.02,
+    "competition_score": 88.64,
+    "related_store_score": 65.84,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(커피전문점) 점포가 적음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 5,
+    "admin_dong": "후평1동",
+    "score": 58.44,
+    "population": 40298,
+    "single_households": 3216,
+    "selected_category_store_count": 57,
+    "related_store_count": 250,
+    "population_score": 66.84,
+    "single_household_score": 38.65,
+    "competition_score": 36.36,
+    "related_store_score": 98.77,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 6,
+    "admin_dong": "퇴계동",
+    "score": 58.15,
+    "population": 42807,
+    "single_households": 2641,
+    "selected_category_store_count": 56,
+    "related_store_count": 244,
+    "population_score": 71.4,
+    "single_household_score": 31.12,
+    "competition_score": 37.5,
+    "related_store_score": 96.3,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 7,
+    "admin_dong": "효자3동",
+    "score": 55.2,
+    "population": 20847,
+    "single_households": 2520,
+    "selected_category_store_count": 17,
+    "related_store_count": 196,
+    "population_score": 31.48,
+    "single_household_score": 29.54,
+    "competition_score": 81.82,
+    "related_store_score": 76.54,
+    "reasons": [
+     "동일 업종(커피전문점) 점포가 적음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 8,
+    "admin_dong": "후평2동",
+    "score": 54.99,
+    "population": 32110,
+    "single_households": 4545,
+    "selected_category_store_count": 64,
+    "related_store_count": 249,
+    "population_score": 51.95,
+    "single_household_score": 56.04,
+    "competition_score": 28.41,
+    "related_store_score": 98.35,
+    "reasons": [
+     "동일 업종(커피전문점) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 9,
+    "admin_dong": "약사명동",
+    "score": 53.19,
+    "population": 56618,
+    "single_households": 4520,
+    "selected_category_store_count": 60,
+    "related_store_count": 49,
+    "population_score": 96.51,
+    "single_household_score": 55.71,
+    "competition_score": 32.95,
+    "related_store_score": 16.05,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 10,
+    "admin_dong": "조운동",
+    "score": 51.08,
+    "population": 45493,
+    "single_households": 3393,
+    "selected_category_store_count": 89,
+    "related_store_count": 253,
+    "population_score": 76.29,
+    "single_household_score": 40.96,
+    "competition_score": 0.0,
+    "related_store_score": 100.0,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(커피전문점) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 11,
+    "admin_dong": "소양동",
+    "score": 50.53,
+    "population": 28463,
+    "single_households": 3358,
+    "selected_category_store_count": 59,
+    "related_store_count": 236,
+    "population_score": 45.32,
+    "single_household_score": 40.51,
+    "competition_score": 34.09,
+    "related_store_score": 93.0,
+    "reasons": [
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 12,
+    "admin_dong": "강남동",
+    "score": 46.21,
+    "population": 37213,
+    "single_households": 4835,
+    "selected_category_store_count": 48,
+    "related_store_count": 33,
+    "population_score": 61.23,
+    "single_household_score": 59.84,
+    "competition_score": 46.59,
+    "related_store_score": 9.47,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 13,
+    "admin_dong": "북산면",
+    "score": 38.77,
+    "population": 12647,
+    "single_households": 1496,
+    "selected_category_store_count": 1,
+    "related_store_count": 17,
+    "population_score": 16.57,
+    "single_household_score": 16.14,
+    "competition_score": 100.0,
+    "related_store_score": 2.88,
+    "reasons": [
+     "동일 업종(커피전문점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 14,
+    "admin_dong": "근화동",
+    "score": 37.63,
+    "population": 18425,
+    "single_households": 2276,
+    "selected_category_store_count": 50,
+    "related_store_count": 143,
+    "population_score": 27.07,
+    "single_household_score": 26.34,
+    "competition_score": 44.32,
+    "related_store_score": 54.73,
+    "reasons": [
+     "뚜렷한 강점이 적음"
+    ]
+   },
+   {
+    "rank": 15,
+    "admin_dong": "사북면",
+    "score": 37.34,
+    "population": 11195,
+    "single_households": 812,
+    "selected_category_store_count": 1,
+    "related_store_count": 31,
+    "population_score": 13.93,
+    "single_household_score": 7.18,
+    "competition_score": 100.0,
+    "related_store_score": 8.64,
+    "reasons": [
+     "동일 업종(커피전문점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 16,
+    "admin_dong": "동면",
+    "score": 36.33,
+    "population": 14149,
+    "single_households": 1125,
+    "selected_category_store_count": 7,
+    "related_store_count": 14,
+    "population_score": 19.3,
+    "single_household_score": 11.28,
+    "competition_score": 93.18,
+    "related_store_score": 1.65,
+    "reasons": [
+     "동일 업종(커피전문점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 17,
+    "admin_dong": "서면",
+    "score": 35.99,
+    "population": 10279,
+    "single_households": 1123,
+    "selected_category_store_count": 3,
+    "related_store_count": 19,
+    "population_score": 12.26,
+    "single_household_score": 11.26,
+    "competition_score": 97.73,
+    "related_store_score": 3.7,
+    "reasons": [
+     "동일 업종(커피전문점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 18,
+    "admin_dong": "효자2동",
+    "score": 34.42,
+    "population": 40541,
+    "single_households": 4436,
+    "selected_category_store_count": 87,
+    "related_store_count": 42,
+    "population_score": 67.28,
+    "single_household_score": 54.61,
+    "competition_score": 2.27,
+    "related_store_score": 13.17,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(커피전문점) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 19,
+    "admin_dong": "신북읍",
+    "score": 33.9,
+    "population": 12476,
+    "single_households": 806,
+    "selected_category_store_count": 9,
+    "related_store_count": 14,
+    "population_score": 16.26,
+    "single_household_score": 7.11,
+    "competition_score": 90.91,
+    "related_store_score": 1.65,
+    "reasons": [
+     "동일 업종(커피전문점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 20,
+    "admin_dong": "동내면",
+    "score": 33.09,
+    "population": 10935,
+    "single_households": 682,
+    "selected_category_store_count": 7,
+    "related_store_count": 10,
+    "population_score": 13.45,
+    "single_household_score": 5.48,
+    "competition_score": 93.18,
+    "related_store_score": 0.0,
+    "reasons": [
+     "동일 업종(커피전문점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 21,
+    "admin_dong": "동산면",
+    "score": 32.92,
+    "population": 5657,
+    "single_households": 380,
+    "selected_category_store_count": 3,
+    "related_store_count": 36,
+    "population_score": 3.86,
+    "single_household_score": 1.53,
+    "competition_score": 97.73,
+    "related_store_score": 10.7,
+    "reasons": [
+     "동일 업종(커피전문점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 22,
+    "admin_dong": "효자1동",
+    "score": 31.94,
+    "population": 42898,
+    "single_households": 2717,
+    "selected_category_store_count": 88,
+    "related_store_count": 55,
+    "population_score": 71.57,
+    "single_household_score": 32.12,
+    "competition_score": 1.14,
+    "related_store_score": 18.52,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(커피전문점) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 23,
+    "admin_dong": "남면",
+    "score": 31.4,
+    "population": 8912,
+    "single_households": 511,
+    "selected_category_store_count": 12,
+    "related_store_count": 29,
+    "population_score": 9.78,
+    "single_household_score": 3.25,
+    "competition_score": 87.5,
+    "related_store_score": 7.82,
+    "reasons": [
+     "동일 업종(커피전문점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 24,
+    "admin_dong": "남산면",
+    "score": 28.54,
+    "population": 3535,
+    "single_households": 263,
+    "selected_category_store_count": 6,
+    "related_store_count": 13,
+    "population_score": 0.0,
+    "single_household_score": 0.0,
+    "competition_score": 94.32,
+    "related_store_score": 1.23,
+    "reasons": [
+     "동일 업종(커피전문점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 25,
+    "admin_dong": "신동면",
+    "score": 28.4,
+    "population": 3679,
+    "single_households": 426,
+    "selected_category_store_count": 12,
+    "related_store_count": 30,
+    "population_score": 0.26,
+    "single_household_score": 2.13,
+    "competition_score": 87.5,
+    "related_store_score": 8.23,
+    "reasons": [
+     "동일 업종(커피전문점) 점포가 적음"
+    ]
+   }
+  ]
+ },
+ "CAFE_TEA": {
+  "region": "춘천시",
+  "boundary_unit": "행정동",
+  "industry": "카페",
+  "sub_industry": "차·전통찻집",
+  "weights": {
+   "population": 0.3,
+   "single_households": 0.2,
+   "competition": 0.3,
+   "related_store_distribution": 0.2
+  },
+  "data_note": "목데이터 · 실제 통계값 아님 (데이터 기준일 [기준일])",
+  "recommendations": [
+   {
+    "rank": 1,
+    "admin_dong": "신사우동",
+    "score": 95.96,
+    "population": 58535,
+    "single_households": 7904,
+    "selected_category_store_count": 12,
+    "related_store_count": 257,
+    "population_score": 100.0,
+    "single_household_score": 100.0,
+    "competition_score": 86.52,
+    "related_store_score": 100.0,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "1인 가구 비중이 높음",
+     "동일 업종(차·전통찻집) 점포가 적음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 2,
+    "admin_dong": "약사명동",
+    "score": 64.2,
+    "population": 56618,
+    "single_households": 4520,
+    "selected_category_store_count": 54,
+    "related_store_count": 160,
+    "population_score": 96.51,
+    "single_household_score": 55.71,
+    "competition_score": 39.33,
+    "related_store_score": 61.51,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 3,
+    "admin_dong": "석사동",
+    "score": 62.5,
+    "population": 53142,
+    "single_households": 3501,
+    "selected_category_store_count": 29,
+    "related_store_count": 90,
+    "population_score": 90.19,
+    "single_household_score": 42.38,
+    "competition_score": 67.42,
+    "related_store_score": 33.73,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 4,
+    "admin_dong": "조운동",
+    "score": 62.49,
+    "population": 45493,
+    "single_households": 3393,
+    "selected_category_store_count": 5,
+    "related_store_count": 44,
+    "population_score": 76.29,
+    "single_household_score": 40.96,
+    "competition_score": 94.38,
+    "related_store_score": 15.48,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(차·전통찻집) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 5,
+    "admin_dong": "효자3동",
+    "score": 56.71,
+    "population": 20847,
+    "single_households": 2520,
+    "selected_category_store_count": 24,
+    "related_store_count": 250,
+    "population_score": 31.48,
+    "single_household_score": 29.54,
+    "competition_score": 73.03,
+    "related_store_score": 97.22,
+    "reasons": [
+     "동일 업종(차·전통찻집) 점포가 적음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 6,
+    "admin_dong": "효자2동",
+    "score": 54.16,
+    "population": 40541,
+    "single_households": 4436,
+    "selected_category_store_count": 67,
+    "related_store_count": 202,
+    "population_score": 67.28,
+    "single_household_score": 54.61,
+    "competition_score": 24.72,
+    "related_store_score": 78.17,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(차·전통찻집) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 7,
+    "admin_dong": "강남동",
+    "score": 53.92,
+    "population": 37213,
+    "single_households": 4835,
+    "selected_category_store_count": 32,
+    "related_store_count": 60,
+    "population_score": 61.23,
+    "single_household_score": 59.84,
+    "competition_score": 64.04,
+    "related_store_score": 21.83,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 8,
+    "admin_dong": "퇴계동",
+    "score": 53.65,
+    "population": 42807,
+    "single_households": 2641,
+    "selected_category_store_count": 42,
+    "related_store_count": 133,
+    "population_score": 71.4,
+    "single_household_score": 31.12,
+    "competition_score": 52.81,
+    "related_store_score": 50.79,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 9,
+    "admin_dong": "후평1동",
+    "score": 49.68,
+    "population": 40298,
+    "single_households": 3216,
+    "selected_category_store_count": 41,
+    "related_store_count": 77,
+    "population_score": 66.84,
+    "single_household_score": 38.65,
+    "competition_score": 53.93,
+    "related_store_score": 28.57,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 10,
+    "admin_dong": "소양동",
+    "score": 49.67,
+    "population": 28463,
+    "single_households": 3358,
+    "selected_category_store_count": 63,
+    "related_store_count": 247,
+    "population_score": 45.32,
+    "single_household_score": 40.51,
+    "competition_score": 29.21,
+    "related_store_score": 96.03,
+    "reasons": [
+     "동일 업종(차·전통찻집) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 11,
+    "admin_dong": "교동",
+    "score": 48.67,
+    "population": 41700,
+    "single_households": 4463,
+    "selected_category_store_count": 79,
+    "related_store_count": 175,
+    "population_score": 69.39,
+    "single_household_score": 54.97,
+    "competition_score": 11.24,
+    "related_store_score": 67.46,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(차·전통찻집) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 12,
+    "admin_dong": "후평3동",
+    "score": 44.36,
+    "population": 40059,
+    "single_households": 2557,
+    "selected_category_store_count": 76,
+    "related_store_count": 182,
+    "population_score": 66.41,
+    "single_household_score": 30.02,
+    "competition_score": 14.61,
+    "related_store_score": 70.24,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(차·전통찻집) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 13,
+    "admin_dong": "후평2동",
+    "score": 40.24,
+    "population": 32110,
+    "single_households": 4545,
+    "selected_category_store_count": 59,
+    "related_store_count": 47,
+    "population_score": 51.95,
+    "single_household_score": 56.04,
+    "competition_score": 33.71,
+    "related_store_score": 16.67,
+    "reasons": [
+     "뚜렷한 강점이 적음"
+    ]
+   },
+   {
+    "rank": 14,
+    "admin_dong": "서면",
+    "score": 38.23,
+    "population": 10279,
+    "single_households": 1123,
+    "selected_category_store_count": 0,
+    "related_store_count": 34,
+    "population_score": 12.26,
+    "single_household_score": 11.26,
+    "competition_score": 100.0,
+    "related_store_score": 11.51,
+    "reasons": [
+     "동일 업종(차·전통찻집) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 15,
+    "admin_dong": "신북읍",
+    "score": 37.75,
+    "population": 12476,
+    "single_households": 806,
+    "selected_category_store_count": 3,
+    "related_store_count": 36,
+    "population_score": 16.26,
+    "single_household_score": 7.11,
+    "competition_score": 96.63,
+    "related_store_score": 12.3,
+    "reasons": [
+     "동일 업종(차·전통찻집) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 16,
+    "admin_dong": "동면",
+    "score": 37.37,
+    "population": 14149,
+    "single_households": 1125,
+    "selected_category_store_count": 2,
+    "related_store_count": 5,
+    "population_score": 19.3,
+    "single_household_score": 11.28,
+    "competition_score": 97.75,
+    "related_store_score": 0.0,
+    "reasons": [
+     "동일 업종(차·전통찻집) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 17,
+    "admin_dong": "사북면",
+    "score": 37.32,
+    "population": 11195,
+    "single_households": 812,
+    "selected_category_store_count": 2,
+    "related_store_count": 35,
+    "population_score": 13.93,
+    "single_household_score": 7.18,
+    "competition_score": 97.75,
+    "related_store_score": 11.9,
+    "reasons": [
+     "동일 업종(차·전통찻집) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 18,
+    "admin_dong": "북산면",
+    "score": 36.73,
+    "population": 12647,
+    "single_households": 1496,
+    "selected_category_store_count": 6,
+    "related_store_count": 12,
+    "population_score": 16.57,
+    "single_household_score": 16.14,
+    "competition_score": 93.26,
+    "related_store_score": 2.78,
+    "reasons": [
+     "동일 업종(차·전통찻집) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 19,
+    "admin_dong": "남면",
+    "score": 35.27,
+    "population": 8912,
+    "single_households": 511,
+    "selected_category_store_count": 3,
+    "related_store_count": 39,
+    "population_score": 9.78,
+    "single_household_score": 3.25,
+    "competition_score": 96.63,
+    "related_store_score": 13.49,
+    "reasons": [
+     "동일 업종(차·전통찻집) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 20,
+    "admin_dong": "근화동",
+    "score": 34.15,
+    "population": 18425,
+    "single_households": 2276,
+    "selected_category_store_count": 38,
+    "related_store_count": 50,
+    "population_score": 27.07,
+    "single_household_score": 26.34,
+    "competition_score": 57.3,
+    "related_store_score": 17.86,
+    "reasons": [
+     "뚜렷한 강점이 적음"
+    ]
+   },
+   {
+    "rank": 21,
+    "admin_dong": "동내면",
+    "score": 32.77,
+    "population": 10935,
+    "single_households": 682,
+    "selected_category_store_count": 7,
+    "related_store_count": 5,
+    "population_score": 13.45,
+    "single_household_score": 5.48,
+    "competition_score": 92.13,
+    "related_store_score": 0.0,
+    "reasons": [
+     "동일 업종(차·전통찻집) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 22,
+    "admin_dong": "효자1동",
+    "score": 31.23,
+    "population": 42898,
+    "single_households": 2717,
+    "selected_category_store_count": 89,
+    "related_store_count": 47,
+    "population_score": 71.57,
+    "single_household_score": 32.12,
+    "competition_score": 0.0,
+    "related_store_score": 16.67,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(차·전통찻집) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 23,
+    "admin_dong": "동산면",
+    "score": 30.79,
+    "population": 5657,
+    "single_households": 380,
+    "selected_category_store_count": 6,
+    "related_store_count": 22,
+    "population_score": 3.86,
+    "single_household_score": 1.53,
+    "competition_score": 93.26,
+    "related_store_score": 6.75,
+    "reasons": [
+     "동일 업종(차·전통찻집) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 24,
+    "admin_dong": "남산면",
+    "score": 30.12,
+    "population": 3535,
+    "single_households": 263,
+    "selected_category_store_count": 6,
+    "related_store_count": 32,
+    "population_score": 0.0,
+    "single_household_score": 0.0,
+    "competition_score": 93.26,
+    "related_store_score": 10.71,
+    "reasons": [
+     "동일 업종(차·전통찻집) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 25,
+    "admin_dong": "신동면",
+    "score": 28.15,
+    "population": 3679,
+    "single_households": 426,
+    "selected_category_store_count": 7,
+    "related_store_count": 5,
+    "population_score": 0.26,
+    "single_household_score": 2.13,
+    "competition_score": 92.13,
+    "related_store_score": 0.0,
+    "reasons": [
+     "동일 업종(차·전통찻집) 점포가 적음"
+    ]
+   }
+  ]
+ },
+ "CAFE_JUICE": {
+  "region": "춘천시",
+  "boundary_unit": "행정동",
+  "industry": "카페",
+  "sub_industry": "주스·음료",
+  "weights": {
+   "population": 0.3,
+   "single_households": 0.2,
+   "competition": 0.3,
+   "related_store_distribution": 0.2
+  },
+  "data_note": "목데이터 · 실제 통계값 아님 (데이터 기준일 [기준일])",
+  "recommendations": [
+   {
+    "rank": 1,
+    "admin_dong": "신사우동",
+    "score": 67.3,
+    "population": 58535,
+    "single_households": 7904,
+    "selected_category_store_count": 63,
+    "related_store_count": 107,
+    "population_score": 100.0,
+    "single_household_score": 100.0,
+    "competition_score": 30.0,
+    "related_store_score": 41.5,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "1인 가구 비중이 높음",
+     "동일 업종(주스·음료) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 2,
+    "admin_dong": "약사명동",
+    "score": 64.35,
+    "population": 56618,
+    "single_households": 4520,
+    "selected_category_store_count": 45,
+    "related_store_count": 119,
+    "population_score": 96.51,
+    "single_household_score": 55.71,
+    "competition_score": 50.0,
+    "related_store_score": 46.25,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 3,
+    "admin_dong": "강남동",
+    "score": 62.45,
+    "population": 37213,
+    "single_households": 4835,
+    "selected_category_store_count": 43,
+    "related_store_count": 210,
+    "population_score": 61.23,
+    "single_household_score": 59.84,
+    "competition_score": 52.22,
+    "related_store_score": 82.21,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 4,
+    "admin_dong": "교동",
+    "score": 61.36,
+    "population": 41700,
+    "single_households": 4463,
+    "selected_category_store_count": 45,
+    "related_store_count": 186,
+    "population_score": 69.39,
+    "single_household_score": 54.97,
+    "competition_score": 50.0,
+    "related_store_score": 72.73,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 5,
+    "admin_dong": "석사동",
+    "score": 54.59,
+    "population": 53142,
+    "single_households": 3501,
+    "selected_category_store_count": 90,
+    "related_store_count": 243,
+    "population_score": 90.19,
+    "single_household_score": 42.38,
+    "competition_score": 0.0,
+    "related_store_score": 95.26,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(주스·음료) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 6,
+    "admin_dong": "후평3동",
+    "score": 53.9,
+    "population": 40059,
+    "single_households": 2557,
+    "selected_category_store_count": 35,
+    "related_store_count": 124,
+    "population_score": 66.41,
+    "single_household_score": 30.02,
+    "competition_score": 61.11,
+    "related_store_score": 48.22,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 7,
+    "admin_dong": "효자1동",
+    "score": 53.13,
+    "population": 42898,
+    "single_households": 2717,
+    "selected_category_store_count": 38,
+    "related_store_count": 102,
+    "population_score": 71.57,
+    "single_household_score": 32.12,
+    "competition_score": 57.78,
+    "related_store_score": 39.53,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 8,
+    "admin_dong": "근화동",
+    "score": 50.72,
+    "population": 18425,
+    "single_households": 2276,
+    "selected_category_store_count": 38,
+    "related_store_count": 255,
+    "population_score": 27.07,
+    "single_household_score": 26.34,
+    "competition_score": 57.78,
+    "related_store_score": 100.0,
+    "reasons": [
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 9,
+    "admin_dong": "효자3동",
+    "score": 49.42,
+    "population": 20847,
+    "single_households": 2520,
+    "selected_category_store_count": 21,
+    "related_store_count": 142,
+    "population_score": 31.48,
+    "single_household_score": 29.54,
+    "competition_score": 76.67,
+    "related_store_score": 55.34,
+    "reasons": [
+     "동일 업종(주스·음료) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 10,
+    "admin_dong": "후평2동",
+    "score": 48.91,
+    "population": 32110,
+    "single_households": 4545,
+    "selected_category_store_count": 45,
+    "related_store_count": 92,
+    "population_score": 51.95,
+    "single_household_score": 56.04,
+    "competition_score": 50.0,
+    "related_store_score": 35.57,
+    "reasons": [
+     "뚜렷한 강점이 적음"
+    ]
+   },
+   {
+    "rank": 11,
+    "admin_dong": "효자2동",
+    "score": 48.15,
+    "population": 40541,
+    "single_households": 4436,
+    "selected_category_store_count": 55,
+    "related_store_count": 70,
+    "population_score": 67.28,
+    "single_household_score": 54.61,
+    "competition_score": 38.89,
+    "related_store_score": 26.88,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 12,
+    "admin_dong": "후평1동",
+    "score": 47.78,
+    "population": 40298,
+    "single_households": 3216,
+    "selected_category_store_count": 90,
+    "related_store_count": 255,
+    "population_score": 66.84,
+    "single_household_score": 38.65,
+    "competition_score": 0.0,
+    "related_store_score": 100.0,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(주스·음료) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 13,
+    "admin_dong": "소양동",
+    "score": 44.92,
+    "population": 28463,
+    "single_households": 3358,
+    "selected_category_store_count": 31,
+    "related_store_count": 47,
+    "population_score": 45.32,
+    "single_household_score": 40.51,
+    "competition_score": 65.56,
+    "related_store_score": 17.79,
+    "reasons": [
+     "뚜렷한 강점이 적음"
+    ]
+   },
+   {
+    "rank": 14,
+    "admin_dong": "조운동",
+    "score": 42.23,
+    "population": 45493,
+    "single_households": 3393,
+    "selected_category_store_count": 71,
+    "related_store_count": 63,
+    "population_score": 76.29,
+    "single_household_score": 40.96,
+    "competition_score": 21.11,
+    "related_store_score": 24.11,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(주스·음료) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 15,
+    "admin_dong": "퇴계동",
+    "score": 41.85,
+    "population": 42807,
+    "single_households": 2641,
+    "selected_category_store_count": 87,
+    "related_store_count": 169,
+    "population_score": 71.4,
+    "single_household_score": 31.12,
+    "competition_score": 3.33,
+    "related_store_score": 66.01,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(주스·음료) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 16,
+    "admin_dong": "북산면",
+    "score": 36.46,
+    "population": 12647,
+    "single_households": 1496,
+    "selected_category_store_count": 9,
+    "related_store_count": 18,
+    "population_score": 16.57,
+    "single_household_score": 16.14,
+    "competition_score": 90.0,
+    "related_store_score": 6.32,
+    "reasons": [
+     "동일 업종(주스·음료) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 17,
+    "admin_dong": "신북읍",
+    "score": 35.61,
+    "population": 12476,
+    "single_households": 806,
+    "selected_category_store_count": 3,
+    "related_store_count": 6,
+    "population_score": 16.26,
+    "single_household_score": 7.11,
+    "competition_score": 96.67,
+    "related_store_score": 1.58,
+    "reasons": [
+     "동일 업종(주스·음료) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 18,
+    "admin_dong": "사북면",
+    "score": 35.14,
+    "population": 11195,
+    "single_households": 812,
+    "selected_category_store_count": 9,
+    "related_store_count": 34,
+    "population_score": 13.93,
+    "single_household_score": 7.18,
+    "competition_score": 90.0,
+    "related_store_score": 12.65,
+    "reasons": [
+     "동일 업종(주스·음료) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 19,
+    "admin_dong": "동면",
+    "score": 35.05,
+    "population": 14149,
+    "single_households": 1125,
+    "selected_category_store_count": 9,
+    "related_store_count": 2,
+    "population_score": 19.3,
+    "single_household_score": 11.28,
+    "competition_score": 90.0,
+    "related_store_score": 0.0,
+    "reasons": [
+     "동일 업종(주스·음료) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 20,
+    "admin_dong": "서면",
+    "score": 33.62,
+    "population": 10279,
+    "single_households": 1123,
+    "selected_category_store_count": 10,
+    "related_store_count": 15,
+    "population_score": 12.26,
+    "single_household_score": 11.26,
+    "competition_score": 88.89,
+    "related_store_score": 5.14,
+    "reasons": [
+     "동일 업종(주스·음료) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 21,
+    "admin_dong": "남면",
+    "score": 33.56,
+    "population": 8912,
+    "single_households": 511,
+    "selected_category_store_count": 1,
+    "related_store_count": 6,
+    "population_score": 9.78,
+    "single_household_score": 3.25,
+    "competition_score": 98.89,
+    "related_store_score": 1.58,
+    "reasons": [
+     "동일 업종(주스·음료) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 22,
+    "admin_dong": "신동면",
+    "score": 33.35,
+    "population": 3679,
+    "single_households": 426,
+    "selected_category_store_count": 0,
+    "related_store_count": 38,
+    "population_score": 0.26,
+    "single_household_score": 2.13,
+    "competition_score": 100.0,
+    "related_store_score": 14.23,
+    "reasons": [
+     "동일 업종(주스·음료) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 23,
+    "admin_dong": "동내면",
+    "score": 32.61,
+    "population": 10935,
+    "single_households": 682,
+    "selected_category_store_count": 9,
+    "related_store_count": 8,
+    "population_score": 13.45,
+    "single_household_score": 5.48,
+    "competition_score": 90.0,
+    "related_store_score": 2.37,
+    "reasons": [
+     "동일 업종(주스·음료) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 24,
+    "admin_dong": "동산면",
+    "score": 30.76,
+    "population": 5657,
+    "single_households": 380,
+    "selected_category_store_count": 9,
+    "related_store_count": 31,
+    "population_score": 3.86,
+    "single_household_score": 1.53,
+    "competition_score": 90.0,
+    "related_store_score": 11.46,
+    "reasons": [
+     "동일 업종(주스·음료) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 25,
+    "admin_dong": "남산면",
+    "score": 30.69,
+    "population": 3535,
+    "single_households": 263,
+    "selected_category_store_count": 6,
+    "related_store_count": 36,
+    "population_score": 0.0,
+    "single_household_score": 0.0,
+    "competition_score": 93.33,
+    "related_store_score": 13.44,
+    "reasons": [
+     "동일 업종(주스·음료) 점포가 적음"
+    ]
+   }
+  ]
+ },
+ "PUB_HOF": {
+  "region": "춘천시",
+  "boundary_unit": "행정동",
+  "industry": "일반주점",
+  "sub_industry": "호프·맥주",
+  "weights": {
+   "population": 0.3,
+   "single_households": 0.2,
+   "competition": 0.3,
+   "related_store_distribution": 0.2
+  },
+  "data_note": "목데이터 · 실제 통계값 아님 (데이터 기준일 [기준일])",
+  "recommendations": [
+   {
+    "rank": 1,
+    "admin_dong": "약사명동",
+    "score": 80.56,
+    "population": 56618,
+    "single_households": 4520,
+    "selected_category_store_count": 19,
+    "related_store_count": 219,
+    "population_score": 96.51,
+    "single_household_score": 55.71,
+    "competition_score": 77.91,
+    "related_store_score": 85.43,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(호프·맥주) 점포가 적음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 2,
+    "admin_dong": "석사동",
+    "score": 74.72,
+    "population": 53142,
+    "single_households": 3501,
+    "selected_category_store_count": 31,
+    "related_store_count": 256,
+    "population_score": 90.19,
+    "single_household_score": 42.38,
+    "competition_score": 63.95,
+    "related_store_score": 100.0,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 3,
+    "admin_dong": "신사우동",
+    "score": 69.08,
+    "population": 58535,
+    "single_households": 7904,
+    "selected_category_store_count": 69,
+    "related_store_count": 169,
+    "population_score": 100.0,
+    "single_household_score": 100.0,
+    "competition_score": 19.77,
+    "related_store_score": 65.75,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "1인 가구 비중이 높음",
+     "동일 업종(호프·맥주) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 4,
+    "admin_dong": "후평1동",
+    "score": 65.79,
+    "population": 40298,
+    "single_households": 3216,
+    "selected_category_store_count": 24,
+    "related_store_count": 210,
+    "population_score": 66.84,
+    "single_household_score": 38.65,
+    "competition_score": 72.09,
+    "related_store_score": 81.89,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(호프·맥주) 점포가 적음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 5,
+    "admin_dong": "후평3동",
+    "score": 55.09,
+    "population": 40059,
+    "single_households": 2557,
+    "selected_category_store_count": 41,
+    "related_store_count": 173,
+    "population_score": 66.41,
+    "single_household_score": 30.02,
+    "competition_score": 52.33,
+    "related_store_score": 67.32,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 6,
+    "admin_dong": "효자2동",
+    "score": 54.7,
+    "population": 40541,
+    "single_households": 4436,
+    "selected_category_store_count": 31,
+    "related_store_count": 58,
+    "population_score": 67.28,
+    "single_household_score": 54.61,
+    "competition_score": 63.95,
+    "related_store_score": 22.05,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 7,
+    "admin_dong": "후평2동",
+    "score": 53.98,
+    "population": 32110,
+    "single_households": 4545,
+    "selected_category_store_count": 39,
+    "related_store_count": 139,
+    "population_score": 51.95,
+    "single_household_score": 56.04,
+    "competition_score": 54.65,
+    "related_store_score": 53.94,
+    "reasons": [
+     "뚜렷한 강점이 적음"
+    ]
+   },
+   {
+    "rank": 8,
+    "admin_dong": "조운동",
+    "score": 53.26,
+    "population": 45493,
+    "single_households": 3393,
+    "selected_category_store_count": 38,
+    "related_store_count": 71,
+    "population_score": 76.29,
+    "single_household_score": 40.96,
+    "competition_score": 55.81,
+    "related_store_score": 27.17,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 9,
+    "admin_dong": "강남동",
+    "score": 52.28,
+    "population": 37213,
+    "single_households": 4835,
+    "selected_category_store_count": 38,
+    "related_store_count": 68,
+    "population_score": 61.23,
+    "single_household_score": 59.84,
+    "competition_score": 55.81,
+    "related_store_score": 25.98,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 10,
+    "admin_dong": "근화동",
+    "score": 48.21,
+    "population": 18425,
+    "single_households": 2276,
+    "selected_category_store_count": 18,
+    "related_store_count": 143,
+    "population_score": 27.07,
+    "single_household_score": 26.34,
+    "competition_score": 79.07,
+    "related_store_score": 55.51,
+    "reasons": [
+     "동일 업종(호프·맥주) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 11,
+    "admin_dong": "퇴계동",
+    "score": 43.71,
+    "population": 42807,
+    "single_households": 2641,
+    "selected_category_store_count": 86,
+    "related_store_count": 206,
+    "population_score": 71.4,
+    "single_household_score": 31.12,
+    "competition_score": 0.0,
+    "related_store_score": 80.31,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(호프·맥주) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 12,
+    "admin_dong": "교동",
+    "score": 41.35,
+    "population": 41700,
+    "single_households": 4463,
+    "selected_category_store_count": 67,
+    "related_store_count": 39,
+    "population_score": 69.39,
+    "single_household_score": 54.97,
+    "competition_score": 22.09,
+    "related_store_score": 14.57,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(호프·맥주) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 13,
+    "admin_dong": "소양동",
+    "score": 38.84,
+    "population": 28463,
+    "single_households": 3358,
+    "selected_category_store_count": 75,
+    "related_store_count": 171,
+    "population_score": 45.32,
+    "single_household_score": 40.51,
+    "competition_score": 12.79,
+    "related_store_score": 66.54,
+    "reasons": [
+     "동일 업종(호프·맥주) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 14,
+    "admin_dong": "북산면",
+    "score": 38.76,
+    "population": 12647,
+    "single_households": 1496,
+    "selected_category_store_count": 2,
+    "related_store_count": 18,
+    "population_score": 16.57,
+    "single_household_score": 16.14,
+    "competition_score": 97.67,
+    "related_store_score": 6.3,
+    "reasons": [
+     "동일 업종(호프·맥주) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 15,
+    "admin_dong": "사북면",
+    "score": 35.9,
+    "population": 11195,
+    "single_households": 812,
+    "selected_category_store_count": 1,
+    "related_store_count": 10,
+    "population_score": 13.93,
+    "single_household_score": 7.18,
+    "competition_score": 98.84,
+    "related_store_score": 3.15,
+    "reasons": [
+     "동일 업종(호프·맥주) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 16,
+    "admin_dong": "동면",
+    "score": 34.79,
+    "population": 14149,
+    "single_households": 1125,
+    "selected_category_store_count": 10,
+    "related_store_count": 5,
+    "population_score": 19.3,
+    "single_household_score": 11.28,
+    "competition_score": 88.37,
+    "related_store_score": 1.18,
+    "reasons": [
+     "동일 업종(호프·맥주) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 17,
+    "admin_dong": "서면",
+    "score": 34.09,
+    "population": 10279,
+    "single_households": 1123,
+    "selected_category_store_count": 10,
+    "related_store_count": 23,
+    "population_score": 12.26,
+    "single_household_score": 11.26,
+    "competition_score": 88.37,
+    "related_store_score": 8.27,
+    "reasons": [
+     "동일 업종(호프·맥주) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 18,
+    "admin_dong": "신북읍",
+    "score": 33.37,
+    "population": 12476,
+    "single_households": 806,
+    "selected_category_store_count": 12,
+    "related_store_count": 18,
+    "population_score": 16.26,
+    "single_household_score": 7.11,
+    "competition_score": 86.05,
+    "related_store_score": 6.3,
+    "reasons": [
+     "동일 업종(호프·맥주) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 19,
+    "admin_dong": "동내면",
+    "score": 32.98,
+    "population": 10935,
+    "single_households": 682,
+    "selected_category_store_count": 10,
+    "related_store_count": 19,
+    "population_score": 13.45,
+    "single_household_score": 5.48,
+    "competition_score": 88.37,
+    "related_store_score": 6.69,
+    "reasons": [
+     "동일 업종(호프·맥주) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 20,
+    "admin_dong": "신동면",
+    "score": 32.63,
+    "population": 3679,
+    "single_households": 426,
+    "selected_category_store_count": 0,
+    "related_store_count": 29,
+    "population_score": 0.26,
+    "single_household_score": 2.13,
+    "competition_score": 100.0,
+    "related_store_score": 10.63,
+    "reasons": [
+     "동일 업종(호프·맥주) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 21,
+    "admin_dong": "효자3동",
+    "score": 32.31,
+    "population": 20847,
+    "single_households": 2520,
+    "selected_category_store_count": 48,
+    "related_store_count": 49,
+    "population_score": 31.48,
+    "single_household_score": 29.54,
+    "competition_score": 44.19,
+    "related_store_score": 18.5,
+    "reasons": [
+     "뚜렷한 강점이 적음"
+    ]
+   },
+   {
+    "rank": 22,
+    "admin_dong": "효자1동",
+    "score": 31.65,
+    "population": 42898,
+    "single_households": 2717,
+    "selected_category_store_count": 82,
+    "related_store_count": 32,
+    "population_score": 71.57,
+    "single_household_score": 32.12,
+    "competition_score": 4.65,
+    "related_store_score": 11.81,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(호프·맥주) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 23,
+    "admin_dong": "남면",
+    "score": 30.95,
+    "population": 8912,
+    "single_households": 511,
+    "selected_category_store_count": 8,
+    "related_store_count": 4,
+    "population_score": 9.78,
+    "single_household_score": 3.25,
+    "competition_score": 90.7,
+    "related_store_score": 0.79,
+    "reasons": [
+     "동일 업종(호프·맥주) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 24,
+    "admin_dong": "동산면",
+    "score": 29.07,
+    "population": 5657,
+    "single_households": 380,
+    "selected_category_store_count": 8,
+    "related_store_count": 7,
+    "population_score": 3.86,
+    "single_household_score": 1.53,
+    "competition_score": 90.7,
+    "related_store_score": 1.97,
+    "reasons": [
+     "동일 업종(호프·맥주) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 25,
+    "admin_dong": "남산면",
+    "score": 28.6,
+    "population": 3535,
+    "single_households": 263,
+    "selected_category_store_count": 4,
+    "related_store_count": 2,
+    "population_score": 0.0,
+    "single_household_score": 0.0,
+    "competition_score": 95.35,
+    "related_store_score": 0.0,
+    "reasons": [
+     "동일 업종(호프·맥주) 점포가 적음"
+    ]
+   }
+  ]
+ },
+ "PUB_IZAKAYA": {
+  "region": "춘천시",
+  "boundary_unit": "행정동",
+  "industry": "일반주점",
+  "sub_industry": "요리주점",
+  "weights": {
+   "population": 0.3,
+   "single_households": 0.2,
+   "competition": 0.3,
+   "related_store_distribution": 0.2
+  },
+  "data_note": "목데이터 · 실제 통계값 아님 (데이터 기준일 [기준일])",
+  "recommendations": [
+   {
+    "rank": 1,
+    "admin_dong": "석사동",
+    "score": 77.53,
+    "population": 53142,
+    "single_households": 3501,
+    "selected_category_store_count": 24,
+    "related_store_count": 253,
+    "population_score": 90.19,
+    "single_household_score": 42.38,
+    "competition_score": 73.33,
+    "related_store_score": 100.0,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(요리주점) 점포가 적음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 2,
+    "admin_dong": "조운동",
+    "score": 77.43,
+    "population": 45493,
+    "single_households": 3393,
+    "selected_category_store_count": 10,
+    "related_store_count": 249,
+    "population_score": 76.29,
+    "single_household_score": 40.96,
+    "competition_score": 88.89,
+    "related_store_score": 98.4,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(요리주점) 점포가 적음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 3,
+    "admin_dong": "신사우동",
+    "score": 73.64,
+    "population": 58535,
+    "single_households": 7904,
+    "selected_category_store_count": 27,
+    "related_store_count": 36,
+    "population_score": 100.0,
+    "single_household_score": 100.0,
+    "competition_score": 70.0,
+    "related_store_score": 13.2,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "1인 가구 비중이 높음",
+     "동일 업종(요리주점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 4,
+    "admin_dong": "약사명동",
+    "score": 65.19,
+    "population": 56618,
+    "single_households": 4520,
+    "selected_category_store_count": 50,
+    "related_store_count": 150,
+    "population_score": 96.51,
+    "single_household_score": 55.71,
+    "competition_score": 44.44,
+    "related_store_score": 58.8,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 5,
+    "admin_dong": "후평2동",
+    "score": 62.31,
+    "population": 32110,
+    "single_households": 4545,
+    "selected_category_store_count": 18,
+    "related_store_count": 147,
+    "population_score": 51.95,
+    "single_household_score": 56.04,
+    "competition_score": 80.0,
+    "related_store_score": 57.6,
+    "reasons": [
+     "동일 업종(요리주점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 6,
+    "admin_dong": "효자2동",
+    "score": 61.07,
+    "population": 40541,
+    "single_households": 4436,
+    "selected_category_store_count": 57,
+    "related_store_count": 240,
+    "population_score": 67.28,
+    "single_household_score": 54.61,
+    "competition_score": 36.67,
+    "related_store_score": 94.8,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 7,
+    "admin_dong": "강남동",
+    "score": 58.72,
+    "population": 37213,
+    "single_households": 4835,
+    "selected_category_store_count": 25,
+    "related_store_count": 87,
+    "population_score": 61.23,
+    "single_household_score": 59.84,
+    "competition_score": 72.22,
+    "related_store_score": 33.6,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(요리주점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 8,
+    "admin_dong": "교동",
+    "score": 58.41,
+    "population": 41700,
+    "single_households": 4463,
+    "selected_category_store_count": 57,
+    "related_store_count": 198,
+    "population_score": 69.39,
+    "single_household_score": 54.97,
+    "competition_score": 36.67,
+    "related_store_score": 78.0,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 9,
+    "admin_dong": "퇴계동",
+    "score": 52.78,
+    "population": 42807,
+    "single_households": 2641,
+    "selected_category_store_count": 35,
+    "related_store_count": 88,
+    "population_score": 71.4,
+    "single_household_score": 31.12,
+    "competition_score": 61.11,
+    "related_store_score": 34.0,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 10,
+    "admin_dong": "후평3동",
+    "score": 48.54,
+    "population": 40059,
+    "single_households": 2557,
+    "selected_category_store_count": 50,
+    "related_store_count": 119,
+    "population_score": 66.41,
+    "single_household_score": 30.02,
+    "competition_score": 44.44,
+    "related_store_score": 46.4,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 11,
+    "admin_dong": "후평1동",
+    "score": 46.66,
+    "population": 40298,
+    "single_households": 3216,
+    "selected_category_store_count": 90,
+    "related_store_count": 239,
+    "population_score": 66.84,
+    "single_household_score": 38.65,
+    "competition_score": 0.0,
+    "related_store_score": 94.4,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(요리주점) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 12,
+    "admin_dong": "소양동",
+    "score": 45.94,
+    "population": 28463,
+    "single_households": 3358,
+    "selected_category_store_count": 36,
+    "related_store_count": 81,
+    "population_score": 45.32,
+    "single_household_score": 40.51,
+    "competition_score": 60.0,
+    "related_store_score": 31.2,
+    "reasons": [
+     "뚜렷한 강점이 적음"
+    ]
+   },
+   {
+    "rank": 13,
+    "admin_dong": "효자1동",
+    "score": 40.96,
+    "population": 42898,
+    "single_households": 2717,
+    "selected_category_store_count": 76,
+    "related_store_count": 108,
+    "population_score": 71.57,
+    "single_household_score": 32.12,
+    "competition_score": 15.56,
+    "related_store_score": 42.0,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(요리주점) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 14,
+    "admin_dong": "근화동",
+    "score": 39.7,
+    "population": 18425,
+    "single_households": 2276,
+    "selected_category_store_count": 31,
+    "related_store_count": 86,
+    "population_score": 27.07,
+    "single_household_score": 26.34,
+    "competition_score": 65.56,
+    "related_store_score": 33.2,
+    "reasons": [
+     "뚜렷한 강점이 적음"
+    ]
+   },
+   {
+    "rank": 15,
+    "admin_dong": "동면",
+    "score": 35.85,
+    "population": 14149,
+    "single_households": 1125,
+    "selected_category_store_count": 9,
+    "related_store_count": 13,
+    "population_score": 19.3,
+    "single_household_score": 11.28,
+    "competition_score": 90.0,
+    "related_store_score": 4.0,
+    "reasons": [
+     "동일 업종(요리주점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 16,
+    "admin_dong": "사북면",
+    "score": 35.79,
+    "population": 11195,
+    "single_households": 812,
+    "selected_category_store_count": 5,
+    "related_store_count": 26,
+    "population_score": 13.93,
+    "single_household_score": 7.18,
+    "competition_score": 94.44,
+    "related_store_score": 9.2,
+    "reasons": [
+     "동일 업종(요리주점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 17,
+    "admin_dong": "효자3동",
+    "score": 35.75,
+    "population": 20847,
+    "single_households": 2520,
+    "selected_category_store_count": 84,
+    "related_store_count": 233,
+    "population_score": 31.48,
+    "single_household_score": 29.54,
+    "competition_score": 6.67,
+    "related_store_score": 92.0,
+    "reasons": [
+     "동일 업종(요리주점) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 18,
+    "admin_dong": "서면",
+    "score": 35.0,
+    "population": 10279,
+    "single_households": 1123,
+    "selected_category_store_count": 4,
+    "related_store_count": 8,
+    "population_score": 12.26,
+    "single_household_score": 11.26,
+    "competition_score": 95.56,
+    "related_store_score": 2.0,
+    "reasons": [
+     "동일 업종(요리주점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 19,
+    "admin_dong": "신북읍",
+    "score": 34.63,
+    "population": 12476,
+    "single_households": 806,
+    "selected_category_store_count": 5,
+    "related_store_count": 3,
+    "population_score": 16.26,
+    "single_household_score": 7.11,
+    "competition_score": 94.44,
+    "related_store_score": 0.0,
+    "reasons": [
+     "동일 업종(요리주점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 20,
+    "admin_dong": "북산면",
+    "score": 34.28,
+    "population": 12647,
+    "single_households": 1496,
+    "selected_category_store_count": 12,
+    "related_store_count": 4,
+    "population_score": 16.57,
+    "single_household_score": 16.14,
+    "competition_score": 86.67,
+    "related_store_score": 0.4,
+    "reasons": [
+     "동일 업종(요리주점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 21,
+    "admin_dong": "동내면",
+    "score": 34.25,
+    "population": 10935,
+    "single_households": 682,
+    "selected_category_store_count": 6,
+    "related_store_count": 17,
+    "population_score": 13.45,
+    "single_household_score": 5.48,
+    "competition_score": 93.33,
+    "related_store_score": 5.6,
+    "reasons": [
+     "동일 업종(요리주점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 22,
+    "admin_dong": "남면",
+    "score": 34.2,
+    "population": 8912,
+    "single_households": 511,
+    "selected_category_store_count": 2,
+    "related_store_count": 19,
+    "population_score": 9.78,
+    "single_household_score": 3.25,
+    "competition_score": 97.78,
+    "related_store_score": 6.4,
+    "reasons": [
+     "동일 업종(요리주점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 23,
+    "admin_dong": "신동면",
+    "score": 31.84,
+    "population": 3679,
+    "single_households": 426,
+    "selected_category_store_count": 2,
+    "related_store_count": 28,
+    "population_score": 0.26,
+    "single_household_score": 2.13,
+    "competition_score": 97.78,
+    "related_store_score": 10.0,
+    "reasons": [
+     "동일 업종(요리주점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 24,
+    "admin_dong": "남산면",
+    "score": 30.72,
+    "population": 3535,
+    "single_households": 263,
+    "selected_category_store_count": 0,
+    "related_store_count": 12,
+    "population_score": 0.0,
+    "single_household_score": 0.0,
+    "competition_score": 100.0,
+    "related_store_score": 3.6,
+    "reasons": [
+     "동일 업종(요리주점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 25,
+    "admin_dong": "동산면",
+    "score": 30.4,
+    "population": 5657,
+    "single_households": 380,
+    "selected_category_store_count": 8,
+    "related_store_count": 23,
+    "population_score": 3.86,
+    "single_household_score": 1.53,
+    "competition_score": 91.11,
+    "related_store_score": 8.0,
+    "reasons": [
+     "동일 업종(요리주점) 점포가 적음"
+    ]
+   }
+  ]
+ },
+ "PUB_POCHA": {
+  "region": "춘천시",
+  "boundary_unit": "행정동",
+  "industry": "일반주점",
+  "sub_industry": "포장마차·실내포차",
+  "weights": {
+   "population": 0.3,
+   "single_households": 0.2,
+   "competition": 0.3,
+   "related_store_distribution": 0.2
+  },
+  "data_note": "목데이터 · 실제 통계값 아님 (데이터 기준일 [기준일])",
+  "recommendations": [
+   {
+    "rank": 1,
+    "admin_dong": "신사우동",
+    "score": 78.9,
+    "population": 58535,
+    "single_households": 7904,
+    "selected_category_store_count": 49,
+    "related_store_count": 200,
+    "population_score": 100.0,
+    "single_household_score": 100.0,
+    "competition_score": 40.0,
+    "related_store_score": 84.48,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "1인 가구 비중이 높음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 2,
+    "admin_dong": "석사동",
+    "score": 69.42,
+    "population": 53142,
+    "single_households": 3501,
+    "selected_category_store_count": 18,
+    "related_store_count": 123,
+    "population_score": 90.19,
+    "single_household_score": 42.38,
+    "competition_score": 78.75,
+    "related_store_score": 51.29,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(포장마차·실내포차) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 3,
+    "admin_dong": "후평1동",
+    "score": 68.36,
+    "population": 40298,
+    "single_households": 3216,
+    "selected_category_store_count": 19,
+    "related_store_count": 205,
+    "population_score": 66.84,
+    "single_household_score": 38.65,
+    "competition_score": 77.5,
+    "related_store_score": 86.64,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(포장마차·실내포차) 점포가 적음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 4,
+    "admin_dong": "후평3동",
+    "score": 64.71,
+    "population": 40059,
+    "single_households": 2557,
+    "selected_category_store_count": 27,
+    "related_store_count": 219,
+    "population_score": 66.41,
+    "single_household_score": 30.02,
+    "competition_score": 67.5,
+    "related_store_score": 92.67,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 5,
+    "admin_dong": "효자2동",
+    "score": 64.22,
+    "population": 40541,
+    "single_households": 4436,
+    "selected_category_store_count": 38,
+    "related_store_count": 201,
+    "population_score": 67.28,
+    "single_household_score": 54.61,
+    "competition_score": 53.75,
+    "related_store_score": 84.91,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 6,
+    "admin_dong": "소양동",
+    "score": 63.12,
+    "population": 28463,
+    "single_households": 3358,
+    "selected_category_store_count": 8,
+    "related_store_count": 167,
+    "population_score": 45.32,
+    "single_household_score": 40.51,
+    "competition_score": 91.25,
+    "related_store_score": 70.26,
+    "reasons": [
+     "동일 업종(포장마차·실내포차) 점포가 적음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 7,
+    "admin_dong": "후평2동",
+    "score": 61.02,
+    "population": 32110,
+    "single_households": 4545,
+    "selected_category_store_count": 38,
+    "related_store_count": 214,
+    "population_score": 51.95,
+    "single_household_score": 56.04,
+    "competition_score": 53.75,
+    "related_store_score": 90.52,
+    "reasons": [
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 8,
+    "admin_dong": "약사명동",
+    "score": 56.8,
+    "population": 56618,
+    "single_households": 4520,
+    "selected_category_store_count": 73,
+    "related_store_count": 163,
+    "population_score": 96.51,
+    "single_household_score": 55.71,
+    "competition_score": 10.0,
+    "related_store_score": 68.53,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(포장마차·실내포차) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 9,
+    "admin_dong": "교동",
+    "score": 54.79,
+    "population": 41700,
+    "single_households": 4463,
+    "selected_category_store_count": 45,
+    "related_store_count": 114,
+    "population_score": 69.39,
+    "single_household_score": 54.97,
+    "competition_score": 45.0,
+    "related_store_score": 47.41,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 10,
+    "admin_dong": "효자3동",
+    "score": 48.9,
+    "population": 20847,
+    "single_households": 2520,
+    "selected_category_store_count": 9,
+    "related_store_count": 80,
+    "population_score": 31.48,
+    "single_household_score": 29.54,
+    "competition_score": 90.0,
+    "related_store_score": 32.76,
+    "reasons": [
+     "동일 업종(포장마차·실내포차) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 11,
+    "admin_dong": "효자1동",
+    "score": 47.09,
+    "population": 42898,
+    "single_households": 2717,
+    "selected_category_store_count": 79,
+    "related_store_count": 218,
+    "population_score": 71.57,
+    "single_household_score": 32.12,
+    "competition_score": 2.5,
+    "related_store_score": 92.24,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(포장마차·실내포차) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 12,
+    "admin_dong": "근화동",
+    "score": 46.14,
+    "population": 18425,
+    "single_households": 2276,
+    "selected_category_store_count": 47,
+    "related_store_count": 236,
+    "population_score": 27.07,
+    "single_household_score": 26.34,
+    "competition_score": 42.5,
+    "related_store_score": 100.0,
+    "reasons": [
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 13,
+    "admin_dong": "조운동",
+    "score": 42.7,
+    "population": 45493,
+    "single_households": 3393,
+    "selected_category_store_count": 56,
+    "related_store_count": 30,
+    "population_score": 76.29,
+    "single_household_score": 40.96,
+    "competition_score": 31.25,
+    "related_store_score": 11.21,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 14,
+    "admin_dong": "강남동",
+    "score": 41.92,
+    "population": 37213,
+    "single_households": 4835,
+    "selected_category_store_count": 60,
+    "related_store_count": 47,
+    "population_score": 61.23,
+    "single_household_score": 59.84,
+    "competition_score": 26.25,
+    "related_store_score": 18.53,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(포장마차·실내포차) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 15,
+    "admin_dong": "퇴계동",
+    "score": 39.37,
+    "population": 42807,
+    "single_households": 2641,
+    "selected_category_store_count": 81,
+    "related_store_count": 140,
+    "population_score": 71.4,
+    "single_household_score": 31.12,
+    "competition_score": 0.0,
+    "related_store_score": 58.62,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(포장마차·실내포차) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 16,
+    "admin_dong": "동면",
+    "score": 39.27,
+    "population": 14149,
+    "single_households": 1125,
+    "selected_category_store_count": 6,
+    "related_store_count": 40,
+    "population_score": 19.3,
+    "single_household_score": 11.28,
+    "competition_score": 93.75,
+    "related_store_score": 15.52,
+    "reasons": [
+     "동일 업종(포장마차·실내포차) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 17,
+    "admin_dong": "북산면",
+    "score": 37.73,
+    "population": 12647,
+    "single_households": 1496,
+    "selected_category_store_count": 8,
+    "related_store_count": 29,
+    "population_score": 16.57,
+    "single_household_score": 16.14,
+    "competition_score": 91.25,
+    "related_store_score": 10.78,
+    "reasons": [
+     "동일 업종(포장마차·실내포차) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 18,
+    "admin_dong": "신북읍",
+    "score": 37.7,
+    "population": 12476,
+    "single_households": 806,
+    "selected_category_store_count": 3,
+    "related_store_count": 29,
+    "population_score": 16.26,
+    "single_household_score": 7.11,
+    "competition_score": 97.5,
+    "related_store_score": 10.78,
+    "reasons": [
+     "동일 업종(포장마차·실내포차) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 19,
+    "admin_dong": "동내면",
+    "score": 37.03,
+    "population": 10935,
+    "single_households": 682,
+    "selected_category_store_count": 1,
+    "related_store_count": 26,
+    "population_score": 13.45,
+    "single_household_score": 5.48,
+    "competition_score": 100.0,
+    "related_store_score": 9.48,
+    "reasons": [
+     "동일 업종(포장마차·실내포차) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 20,
+    "admin_dong": "서면",
+    "score": 35.64,
+    "population": 10279,
+    "single_households": 1123,
+    "selected_category_store_count": 5,
+    "related_store_count": 18,
+    "population_score": 12.26,
+    "single_household_score": 11.26,
+    "competition_score": 95.0,
+    "related_store_score": 6.03,
+    "reasons": [
+     "동일 업종(포장마차·실내포차) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 21,
+    "admin_dong": "동산면",
+    "score": 32.55,
+    "population": 5657,
+    "single_households": 380,
+    "selected_category_store_count": 5,
+    "related_store_count": 34,
+    "population_score": 3.86,
+    "single_household_score": 1.53,
+    "competition_score": 95.0,
+    "related_store_score": 12.93,
+    "reasons": [
+     "동일 업종(포장마차·실내포차) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 22,
+    "admin_dong": "남면",
+    "score": 32.39,
+    "population": 8912,
+    "single_households": 511,
+    "selected_category_store_count": 12,
+    "related_store_count": 38,
+    "population_score": 9.78,
+    "single_household_score": 3.25,
+    "competition_score": 86.25,
+    "related_store_score": 14.66,
+    "reasons": [
+     "동일 업종(포장마차·실내포차) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 23,
+    "admin_dong": "사북면",
+    "score": 32.24,
+    "population": 11195,
+    "single_households": 812,
+    "selected_category_store_count": 10,
+    "related_store_count": 4,
+    "population_score": 13.93,
+    "single_household_score": 7.18,
+    "competition_score": 88.75,
+    "related_store_score": 0.0,
+    "reasons": [
+     "동일 업종(포장마차·실내포차) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 24,
+    "admin_dong": "신동면",
+    "score": 29.81,
+    "population": 3679,
+    "single_households": 426,
+    "selected_category_store_count": 4,
+    "related_store_count": 9,
+    "population_score": 0.26,
+    "single_household_score": 2.13,
+    "competition_score": 96.25,
+    "related_store_score": 2.16,
+    "reasons": [
+     "동일 업종(포장마차·실내포차) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 25,
+    "admin_dong": "남산면",
+    "score": 29.74,
+    "population": 3535,
+    "single_households": 263,
+    "selected_category_store_count": 4,
+    "related_store_count": 14,
+    "population_score": 0.0,
+    "single_household_score": 0.0,
+    "competition_score": 96.25,
+    "related_store_score": 4.31,
+    "reasons": [
+     "동일 업종(포장마차·실내포차) 점포가 적음"
+    ]
+   }
+  ]
+ },
+ "BAKERY_BREAD": {
+  "region": "춘천시",
+  "boundary_unit": "행정동",
+  "industry": "베이커리·떡·디저트",
+  "sub_industry": "제과점",
+  "weights": {
+   "population": 0.3,
+   "single_households": 0.2,
+   "competition": 0.3,
+   "related_store_distribution": 0.2
+  },
+  "data_note": "목데이터 · 실제 통계값 아님 (데이터 기준일 [기준일])",
+  "recommendations": [
+   {
+    "rank": 1,
+    "admin_dong": "신사우동",
+    "score": 73.79,
+    "population": 58535,
+    "single_households": 7904,
+    "selected_category_store_count": 56,
+    "related_store_count": 161,
+    "population_score": 100.0,
+    "single_household_score": 100.0,
+    "competition_score": 38.2,
+    "related_store_score": 61.63,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "1인 가구 비중이 높음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 2,
+    "admin_dong": "약사명동",
+    "score": 67.06,
+    "population": 56618,
+    "single_households": 4520,
+    "selected_category_store_count": 56,
+    "related_store_count": 202,
+    "population_score": 96.51,
+    "single_household_score": 55.71,
+    "competition_score": 38.2,
+    "related_store_score": 77.52,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 3,
+    "admin_dong": "후평2동",
+    "score": 65.26,
+    "population": 32110,
+    "single_households": 4545,
+    "selected_category_store_count": 29,
+    "related_store_count": 233,
+    "population_score": 51.95,
+    "single_household_score": 56.04,
+    "competition_score": 68.54,
+    "related_store_score": 89.53,
+    "reasons": [
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 4,
+    "admin_dong": "후평1동",
+    "score": 62.59,
+    "population": 40298,
+    "single_households": 3216,
+    "selected_category_store_count": 21,
+    "related_store_count": 151,
+    "population_score": 66.84,
+    "single_household_score": 38.65,
+    "competition_score": 77.53,
+    "related_store_score": 57.75,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(제과점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 5,
+    "admin_dong": "효자2동",
+    "score": 60.32,
+    "population": 40541,
+    "single_households": 4436,
+    "selected_category_store_count": 53,
+    "related_store_count": 218,
+    "population_score": 67.28,
+    "single_household_score": 54.61,
+    "competition_score": 41.57,
+    "related_store_score": 83.72,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 6,
+    "admin_dong": "조운동",
+    "score": 56.84,
+    "population": 45493,
+    "single_households": 3393,
+    "selected_category_store_count": 46,
+    "related_store_count": 143,
+    "population_score": 76.29,
+    "single_household_score": 40.96,
+    "competition_score": 49.44,
+    "related_store_score": 54.65,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 7,
+    "admin_dong": "후평3동",
+    "score": 56.71,
+    "population": 40059,
+    "single_households": 2557,
+    "selected_category_store_count": 58,
+    "related_store_count": 260,
+    "population_score": 66.41,
+    "single_household_score": 30.02,
+    "competition_score": 35.96,
+    "related_store_score": 100.0,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 8,
+    "admin_dong": "강남동",
+    "score": 53.93,
+    "population": 37213,
+    "single_households": 4835,
+    "selected_category_store_count": 43,
+    "related_store_count": 102,
+    "population_score": 61.23,
+    "single_household_score": 59.84,
+    "competition_score": 52.81,
+    "related_store_score": 38.76,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 9,
+    "admin_dong": "석사동",
+    "score": 53.09,
+    "population": 53142,
+    "single_households": 3501,
+    "selected_category_store_count": 83,
+    "related_store_count": 198,
+    "population_score": 90.19,
+    "single_household_score": 42.38,
+    "competition_score": 7.87,
+    "related_store_score": 75.97,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(제과점) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 10,
+    "admin_dong": "교동",
+    "score": 52.14,
+    "population": 41700,
+    "single_households": 4463,
+    "selected_category_store_count": 75,
+    "related_store_count": 199,
+    "population_score": 69.39,
+    "single_household_score": 54.97,
+    "competition_score": 16.85,
+    "related_store_score": 76.36,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(제과점) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 11,
+    "admin_dong": "효자1동",
+    "score": 45.8,
+    "population": 42898,
+    "single_households": 2717,
+    "selected_category_store_count": 90,
+    "related_store_count": 233,
+    "population_score": 71.57,
+    "single_household_score": 32.12,
+    "competition_score": 0.0,
+    "related_store_score": 89.53,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(제과점) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 12,
+    "admin_dong": "효자3동",
+    "score": 42.09,
+    "population": 20847,
+    "single_households": 2520,
+    "selected_category_store_count": 27,
+    "related_store_count": 73,
+    "population_score": 31.48,
+    "single_household_score": 29.54,
+    "competition_score": 70.79,
+    "related_store_score": 27.52,
+    "reasons": [
+     "동일 업종(제과점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 13,
+    "admin_dong": "소양동",
+    "score": 39.0,
+    "population": 28463,
+    "single_households": 3358,
+    "selected_category_store_count": 75,
+    "related_store_count": 160,
+    "population_score": 45.32,
+    "single_household_score": 40.51,
+    "competition_score": 16.85,
+    "related_store_score": 61.24,
+    "reasons": [
+     "동일 업종(제과점) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 14,
+    "admin_dong": "북산면",
+    "score": 38.68,
+    "population": 12647,
+    "single_households": 1496,
+    "selected_category_store_count": 6,
+    "related_store_count": 30,
+    "population_score": 16.57,
+    "single_household_score": 16.14,
+    "competition_score": 94.38,
+    "related_store_score": 10.85,
+    "reasons": [
+     "동일 업종(제과점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 15,
+    "admin_dong": "동면",
+    "score": 38.17,
+    "population": 14149,
+    "single_households": 1125,
+    "selected_category_store_count": 5,
+    "related_store_count": 21,
+    "population_score": 19.3,
+    "single_household_score": 11.28,
+    "competition_score": 95.51,
+    "related_store_score": 7.36,
+    "reasons": [
+     "동일 업종(제과점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 16,
+    "admin_dong": "서면",
+    "score": 36.47,
+    "population": 10279,
+    "single_households": 1123,
+    "selected_category_store_count": 4,
+    "related_store_count": 22,
+    "population_score": 12.26,
+    "single_household_score": 11.26,
+    "competition_score": 96.63,
+    "related_store_score": 7.75,
+    "reasons": [
+     "동일 업종(제과점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 17,
+    "admin_dong": "근화동",
+    "score": 35.93,
+    "population": 18425,
+    "single_households": 2276,
+    "selected_category_store_count": 42,
+    "related_store_count": 84,
+    "population_score": 27.07,
+    "single_household_score": 26.34,
+    "competition_score": 53.93,
+    "related_store_score": 31.78,
+    "reasons": [
+     "뚜렷한 강점이 적음"
+    ]
+   },
+   {
+    "rank": 18,
+    "admin_dong": "퇴계동",
+    "score": 35.83,
+    "population": 42807,
+    "single_households": 2641,
+    "selected_category_store_count": 77,
+    "related_store_count": 51,
+    "population_score": 71.4,
+    "single_household_score": 31.12,
+    "competition_score": 14.61,
+    "related_store_score": 18.99,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(제과점) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 19,
+    "admin_dong": "남면",
+    "score": 35.44,
+    "population": 8912,
+    "single_households": 511,
+    "selected_category_store_count": 4,
+    "related_store_count": 39,
+    "population_score": 9.78,
+    "single_household_score": 3.25,
+    "competition_score": 96.63,
+    "related_store_score": 14.34,
+    "reasons": [
+     "동일 업종(제과점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 20,
+    "admin_dong": "사북면",
+    "score": 34.83,
+    "population": 11195,
+    "single_households": 812,
+    "selected_category_store_count": 10,
+    "related_store_count": 31,
+    "population_score": 13.93,
+    "single_household_score": 7.18,
+    "competition_score": 89.89,
+    "related_store_score": 11.24,
+    "reasons": [
+     "동일 업종(제과점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 21,
+    "admin_dong": "동내면",
+    "score": 33.86,
+    "population": 10935,
+    "single_households": 682,
+    "selected_category_store_count": 11,
+    "related_store_count": 29,
+    "population_score": 13.45,
+    "single_household_score": 5.48,
+    "competition_score": 88.76,
+    "related_store_score": 10.47,
+    "reasons": [
+     "동일 업종(제과점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 22,
+    "admin_dong": "신북읍",
+    "score": 33.6,
+    "population": 12476,
+    "single_households": 806,
+    "selected_category_store_count": 9,
+    "related_store_count": 2,
+    "population_score": 16.26,
+    "single_household_score": 7.11,
+    "competition_score": 91.01,
+    "related_store_score": 0.0,
+    "reasons": [
+     "동일 업종(제과점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 23,
+    "admin_dong": "신동면",
+    "score": 31.51,
+    "population": 3679,
+    "single_households": 426,
+    "selected_category_store_count": 1,
+    "related_store_count": 15,
+    "population_score": 0.26,
+    "single_household_score": 2.13,
+    "competition_score": 100.0,
+    "related_store_score": 5.04,
+    "reasons": [
+     "동일 업종(제과점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 24,
+    "admin_dong": "남산면",
+    "score": 30.59,
+    "population": 3535,
+    "single_households": 263,
+    "selected_category_store_count": 8,
+    "related_store_count": 40,
+    "population_score": 0.0,
+    "single_household_score": 0.0,
+    "competition_score": 92.13,
+    "related_store_score": 14.73,
+    "reasons": [
+     "동일 업종(제과점) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 25,
+    "admin_dong": "동산면",
+    "score": 29.83,
+    "population": 5657,
+    "single_households": 380,
+    "selected_category_store_count": 10,
+    "related_store_count": 20,
+    "population_score": 3.86,
+    "single_household_score": 1.53,
+    "competition_score": 89.89,
+    "related_store_score": 6.98,
+    "reasons": [
+     "동일 업종(제과점) 점포가 적음"
+    ]
+   }
+  ]
+ },
+ "BAKERY_RICECAKE": {
+  "region": "춘천시",
+  "boundary_unit": "행정동",
+  "industry": "베이커리·떡·디저트",
+  "sub_industry": "떡·한과",
+  "weights": {
+   "population": 0.3,
+   "single_households": 0.2,
+   "competition": 0.3,
+   "related_store_distribution": 0.2
+  },
+  "data_note": "목데이터 · 실제 통계값 아님 (데이터 기준일 [기준일])",
+  "recommendations": [
+   {
+    "rank": 1,
+    "admin_dong": "약사명동",
+    "score": 76.12,
+    "population": 56618,
+    "single_households": 4520,
+    "selected_category_store_count": 23,
+    "related_store_count": 172,
+    "population_score": 96.51,
+    "single_household_score": 55.71,
+    "competition_score": 73.81,
+    "related_store_score": 69.39,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(떡·한과) 점포가 적음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 2,
+    "admin_dong": "효자1동",
+    "score": 72.27,
+    "population": 42898,
+    "single_households": 2717,
+    "selected_category_store_count": 14,
+    "related_store_count": 235,
+    "population_score": 71.57,
+    "single_household_score": 32.12,
+    "competition_score": 84.52,
+    "related_store_score": 95.1,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(떡·한과) 점포가 적음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 3,
+    "admin_dong": "신사우동",
+    "score": 69.97,
+    "population": 58535,
+    "single_households": 7904,
+    "selected_category_store_count": 54,
+    "related_store_count": 111,
+    "population_score": 100.0,
+    "single_household_score": 100.0,
+    "competition_score": 36.9,
+    "related_store_score": 44.49,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "1인 가구 비중이 높음"
+    ]
+   },
+   {
+    "rank": 4,
+    "admin_dong": "소양동",
+    "score": 68.48,
+    "population": 28463,
+    "single_households": 3358,
+    "selected_category_store_count": 10,
+    "related_store_count": 247,
+    "population_score": 45.32,
+    "single_household_score": 40.51,
+    "competition_score": 89.29,
+    "related_store_score": 100.0,
+    "reasons": [
+     "동일 업종(떡·한과) 점포가 적음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 5,
+    "admin_dong": "강남동",
+    "score": 65.03,
+    "population": 37213,
+    "single_households": 4835,
+    "selected_category_store_count": 29,
+    "related_store_count": 182,
+    "population_score": 61.23,
+    "single_household_score": 59.84,
+    "competition_score": 66.67,
+    "related_store_score": 73.47,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 6,
+    "admin_dong": "교동",
+    "score": 55.92,
+    "population": 41700,
+    "single_households": 4463,
+    "selected_category_store_count": 68,
+    "related_store_count": 223,
+    "population_score": 69.39,
+    "single_household_score": 54.97,
+    "competition_score": 20.24,
+    "related_store_score": 90.2,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(떡·한과) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 7,
+    "admin_dong": "조운동",
+    "score": 53.99,
+    "population": 45493,
+    "single_households": 3393,
+    "selected_category_store_count": 30,
+    "related_store_count": 42,
+    "population_score": 76.29,
+    "single_household_score": 40.96,
+    "competition_score": 65.48,
+    "related_store_score": 16.33,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 8,
+    "admin_dong": "효자2동",
+    "score": 50.88,
+    "population": 40541,
+    "single_households": 4436,
+    "selected_category_store_count": 63,
+    "related_store_count": 148,
+    "population_score": 67.28,
+    "single_household_score": 54.61,
+    "competition_score": 26.19,
+    "related_store_score": 59.59,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(떡·한과) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 9,
+    "admin_dong": "후평1동",
+    "score": 50.1,
+    "population": 40298,
+    "single_households": 3216,
+    "selected_category_store_count": 36,
+    "related_store_count": 61,
+    "population_score": 66.84,
+    "single_household_score": 38.65,
+    "competition_score": 58.33,
+    "related_store_score": 24.08,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 10,
+    "admin_dong": "석사동",
+    "score": 48.84,
+    "population": 53142,
+    "single_households": 3501,
+    "selected_category_store_count": 85,
+    "related_store_count": 165,
+    "population_score": 90.19,
+    "single_household_score": 42.38,
+    "competition_score": 0.0,
+    "related_store_score": 66.53,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(떡·한과) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 11,
+    "admin_dong": "근화동",
+    "score": 48.32,
+    "population": 18425,
+    "single_households": 2276,
+    "selected_category_store_count": 8,
+    "related_store_count": 93,
+    "population_score": 27.07,
+    "single_household_score": 26.34,
+    "competition_score": 91.67,
+    "related_store_score": 37.14,
+    "reasons": [
+     "동일 업종(떡·한과) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 12,
+    "admin_dong": "후평2동",
+    "score": 45.69,
+    "population": 32110,
+    "single_households": 4545,
+    "selected_category_store_count": 65,
+    "related_store_count": 146,
+    "population_score": 51.95,
+    "single_household_score": 56.04,
+    "competition_score": 23.81,
+    "related_store_score": 58.78,
+    "reasons": [
+     "동일 업종(떡·한과) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 13,
+    "admin_dong": "퇴계동",
+    "score": 44.1,
+    "population": 42807,
+    "single_households": 2641,
+    "selected_category_store_count": 78,
+    "related_store_count": 173,
+    "population_score": 71.4,
+    "single_household_score": 31.12,
+    "competition_score": 8.33,
+    "related_store_score": 69.8,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(떡·한과) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 14,
+    "admin_dong": "효자3동",
+    "score": 41.16,
+    "population": 20847,
+    "single_households": 2520,
+    "selected_category_store_count": 58,
+    "related_store_count": 200,
+    "population_score": 31.48,
+    "single_household_score": 29.54,
+    "competition_score": 32.14,
+    "related_store_score": 80.82,
+    "reasons": [
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 15,
+    "admin_dong": "사북면",
+    "score": 37.59,
+    "population": 11195,
+    "single_households": 812,
+    "selected_category_store_count": 3,
+    "related_store_count": 35,
+    "population_score": 13.93,
+    "single_household_score": 7.18,
+    "competition_score": 97.62,
+    "related_store_score": 13.47,
+    "reasons": [
+     "동일 업종(떡·한과) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 16,
+    "admin_dong": "북산면",
+    "score": 36.64,
+    "population": 12647,
+    "single_households": 1496,
+    "selected_category_store_count": 12,
+    "related_store_count": 31,
+    "population_score": 16.57,
+    "single_household_score": 16.14,
+    "competition_score": 86.9,
+    "related_store_score": 11.84,
+    "reasons": [
+     "동일 업종(떡·한과) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 17,
+    "admin_dong": "동면",
+    "score": 36.41,
+    "population": 14149,
+    "single_households": 1125,
+    "selected_category_store_count": 9,
+    "related_store_count": 17,
+    "population_score": 19.3,
+    "single_household_score": 11.28,
+    "competition_score": 90.48,
+    "related_store_score": 6.12,
+    "reasons": [
+     "동일 업종(떡·한과) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 18,
+    "admin_dong": "서면",
+    "score": 35.76,
+    "population": 10279,
+    "single_households": 1123,
+    "selected_category_store_count": 4,
+    "related_store_count": 13,
+    "population_score": 12.26,
+    "single_household_score": 11.26,
+    "competition_score": 96.43,
+    "related_store_score": 4.49,
+    "reasons": [
+     "동일 업종(떡·한과) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 19,
+    "admin_dong": "신북읍",
+    "score": 35.12,
+    "population": 12476,
+    "single_households": 806,
+    "selected_category_store_count": 10,
+    "related_store_count": 27,
+    "population_score": 16.26,
+    "single_household_score": 7.11,
+    "competition_score": 89.29,
+    "related_store_score": 10.2,
+    "reasons": [
+     "동일 업종(떡·한과) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 20,
+    "admin_dong": "남면",
+    "score": 35.07,
+    "population": 8912,
+    "single_households": 511,
+    "selected_category_store_count": 3,
+    "related_store_count": 29,
+    "population_score": 9.78,
+    "single_household_score": 3.25,
+    "competition_score": 97.62,
+    "related_store_score": 11.02,
+    "reasons": [
+     "동일 업종(떡·한과) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 21,
+    "admin_dong": "후평3동",
+    "score": 31.7,
+    "population": 40059,
+    "single_households": 2557,
+    "selected_category_store_count": 83,
+    "related_store_count": 64,
+    "population_score": 66.41,
+    "single_household_score": 30.02,
+    "competition_score": 2.38,
+    "related_store_score": 25.31,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(떡·한과) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 22,
+    "admin_dong": "동내면",
+    "score": 31.69,
+    "population": 10935,
+    "single_households": 682,
+    "selected_category_store_count": 12,
+    "related_store_count": 8,
+    "population_score": 13.45,
+    "single_household_score": 5.48,
+    "competition_score": 86.9,
+    "related_store_score": 2.45,
+    "reasons": [
+     "동일 업종(떡·한과) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 23,
+    "admin_dong": "동산면",
+    "score": 30.77,
+    "population": 5657,
+    "single_households": 380,
+    "selected_category_store_count": 5,
+    "related_store_count": 11,
+    "population_score": 3.86,
+    "single_household_score": 1.53,
+    "competition_score": 95.24,
+    "related_store_score": 3.67,
+    "reasons": [
+     "동일 업종(떡·한과) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 24,
+    "admin_dong": "신동면",
+    "score": 30.51,
+    "population": 3679,
+    "single_households": 426,
+    "selected_category_store_count": 1,
+    "related_store_count": 2,
+    "population_score": 0.26,
+    "single_household_score": 2.13,
+    "competition_score": 100.0,
+    "related_store_score": 0.0,
+    "reasons": [
+     "동일 업종(떡·한과) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 25,
+    "admin_dong": "남산면",
+    "score": 27.93,
+    "population": 3535,
+    "single_households": 263,
+    "selected_category_store_count": 10,
+    "related_store_count": 16,
+    "population_score": 0.0,
+    "single_household_score": 0.0,
+    "competition_score": 89.29,
+    "related_store_score": 5.71,
+    "reasons": [
+     "동일 업종(떡·한과) 점포가 적음"
+    ]
+   }
+  ]
+ },
+ "BAKERY_ICE": {
+  "region": "춘천시",
+  "boundary_unit": "행정동",
+  "industry": "베이커리·떡·디저트",
+  "sub_industry": "아이스크림·빙수",
+  "weights": {
+   "population": 0.3,
+   "single_households": 0.2,
+   "competition": 0.3,
+   "related_store_distribution": 0.2
+  },
+  "data_note": "목데이터 · 실제 통계값 아님 (데이터 기준일 [기준일])",
+  "recommendations": [
+   {
+    "rank": 1,
+    "admin_dong": "신사우동",
+    "score": 82.79,
+    "population": 58535,
+    "single_households": 7904,
+    "selected_category_store_count": 35,
+    "related_store_count": 179,
+    "population_score": 100.0,
+    "single_household_score": 100.0,
+    "competition_score": 60.71,
+    "related_store_score": 72.88,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "1인 가구 비중이 높음",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 2,
+    "admin_dong": "약사명동",
+    "score": 68.17,
+    "population": 56618,
+    "single_households": 4520,
+    "selected_category_store_count": 38,
+    "related_store_count": 136,
+    "population_score": 96.51,
+    "single_household_score": 55.71,
+    "competition_score": 57.14,
+    "related_store_score": 54.66,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 3,
+    "admin_dong": "교동",
+    "score": 65.63,
+    "population": 41700,
+    "single_households": 4463,
+    "selected_category_store_count": 39,
+    "related_store_count": 208,
+    "population_score": 69.39,
+    "single_household_score": 54.97,
+    "competition_score": 55.95,
+    "related_store_score": 85.17,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 4,
+    "admin_dong": "강남동",
+    "score": 65.05,
+    "population": 37213,
+    "single_households": 4835,
+    "selected_category_store_count": 41,
+    "related_store_count": 227,
+    "population_score": 61.23,
+    "single_household_score": 59.84,
+    "competition_score": 53.57,
+    "related_store_score": 93.22,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 5,
+    "admin_dong": "퇴계동",
+    "score": 63.7,
+    "population": 42807,
+    "single_households": 2641,
+    "selected_category_store_count": 14,
+    "related_store_count": 129,
+    "population_score": 71.4,
+    "single_household_score": 31.12,
+    "competition_score": 85.71,
+    "related_store_score": 51.69,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(아이스크림·빙수) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 6,
+    "admin_dong": "후평1동",
+    "score": 57.85,
+    "population": 40298,
+    "single_households": 3216,
+    "selected_category_store_count": 40,
+    "related_store_count": 168,
+    "population_score": 66.84,
+    "single_household_score": 38.65,
+    "competition_score": 54.76,
+    "related_store_score": 68.22,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 7,
+    "admin_dong": "효자2동",
+    "score": 55.68,
+    "population": 40541,
+    "single_households": 4436,
+    "selected_category_store_count": 35,
+    "related_store_count": 82,
+    "population_score": 67.28,
+    "single_household_score": 54.61,
+    "competition_score": 60.71,
+    "related_store_score": 31.78,
+    "reasons": [
+     "인구 규모가 큰 편"
+    ]
+   },
+   {
+    "rank": 8,
+    "admin_dong": "석사동",
+    "score": 55.48,
+    "population": 53142,
+    "single_households": 3501,
+    "selected_category_store_count": 61,
+    "related_store_count": 137,
+    "population_score": 90.19,
+    "single_household_score": 42.38,
+    "competition_score": 29.76,
+    "related_store_score": 55.08,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(아이스크림·빙수) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 9,
+    "admin_dong": "효자3동",
+    "score": 51.78,
+    "population": 20847,
+    "single_households": 2520,
+    "selected_category_store_count": 40,
+    "related_store_count": 243,
+    "population_score": 31.48,
+    "single_household_score": 29.54,
+    "competition_score": 54.76,
+    "related_store_score": 100.0,
+    "reasons": [
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 10,
+    "admin_dong": "후평2동",
+    "score": 44.19,
+    "population": 32110,
+    "single_households": 4545,
+    "selected_category_store_count": 71,
+    "related_store_count": 149,
+    "population_score": 51.95,
+    "single_household_score": 56.04,
+    "competition_score": 17.86,
+    "related_store_score": 60.17,
+    "reasons": [
+     "동일 업종(아이스크림·빙수) 경쟁이 치열함",
+     "관련 업종 상권이 형성됨"
+    ]
+   },
+   {
+    "rank": 11,
+    "admin_dong": "후평3동",
+    "score": 43.64,
+    "population": 40059,
+    "single_households": 2557,
+    "selected_category_store_count": 67,
+    "related_store_count": 136,
+    "population_score": 66.41,
+    "single_household_score": 30.02,
+    "competition_score": 22.62,
+    "related_store_score": 54.66,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(아이스크림·빙수) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 12,
+    "admin_dong": "조운동",
+    "score": 42.96,
+    "population": 45493,
+    "single_households": 3393,
+    "selected_category_store_count": 62,
+    "related_store_count": 46,
+    "population_score": 76.29,
+    "single_household_score": 40.96,
+    "competition_score": 28.57,
+    "related_store_score": 16.53,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(아이스크림·빙수) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 13,
+    "admin_dong": "근화동",
+    "score": 42.01,
+    "population": 18425,
+    "single_households": 2276,
+    "selected_category_store_count": 36,
+    "related_store_count": 134,
+    "population_score": 27.07,
+    "single_household_score": 26.34,
+    "competition_score": 59.52,
+    "related_store_score": 53.81,
+    "reasons": [
+     "뚜렷한 강점이 적음"
+    ]
+   },
+   {
+    "rank": 14,
+    "admin_dong": "서면",
+    "score": 37.54,
+    "population": 10279,
+    "single_households": 1123,
+    "selected_category_store_count": 2,
+    "related_store_count": 26,
+    "population_score": 12.26,
+    "single_household_score": 11.26,
+    "competition_score": 100.0,
+    "related_store_score": 8.05,
+    "reasons": [
+     "동일 업종(아이스크림·빙수) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 15,
+    "admin_dong": "북산면",
+    "score": 37.09,
+    "population": 12647,
+    "single_households": 1496,
+    "selected_category_store_count": 7,
+    "related_store_count": 15,
+    "population_score": 16.57,
+    "single_household_score": 16.14,
+    "competition_score": 94.05,
+    "related_store_score": 3.39,
+    "reasons": [
+     "동일 업종(아이스크림·빙수) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 16,
+    "admin_dong": "동면",
+    "score": 36.82,
+    "population": 14149,
+    "single_households": 1125,
+    "selected_category_store_count": 9,
+    "related_store_count": 22,
+    "population_score": 19.3,
+    "single_household_score": 11.28,
+    "competition_score": 91.67,
+    "related_store_score": 6.36,
+    "reasons": [
+     "동일 업종(아이스크림·빙수) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 17,
+    "admin_dong": "신북읍",
+    "score": 35.87,
+    "population": 12476,
+    "single_households": 806,
+    "selected_category_store_count": 7,
+    "related_store_count": 23,
+    "population_score": 16.26,
+    "single_household_score": 7.11,
+    "competition_score": 94.05,
+    "related_store_score": 6.78,
+    "reasons": [
+     "동일 업종(아이스크림·빙수) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 18,
+    "admin_dong": "동내면",
+    "score": 33.96,
+    "population": 10935,
+    "single_households": 682,
+    "selected_category_store_count": 6,
+    "related_store_count": 10,
+    "population_score": 13.45,
+    "single_household_score": 5.48,
+    "competition_score": 95.24,
+    "related_store_score": 1.27,
+    "reasons": [
+     "동일 업종(아이스크림·빙수) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 19,
+    "admin_dong": "사북면",
+    "score": 32.74,
+    "population": 11195,
+    "single_households": 812,
+    "selected_category_store_count": 11,
+    "related_store_count": 11,
+    "population_score": 13.93,
+    "single_household_score": 7.18,
+    "competition_score": 89.29,
+    "related_store_score": 1.69,
+    "reasons": [
+     "동일 업종(아이스크림·빙수) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 20,
+    "admin_dong": "남면",
+    "score": 31.78,
+    "population": 8912,
+    "single_households": 511,
+    "selected_category_store_count": 8,
+    "related_store_count": 11,
+    "population_score": 9.78,
+    "single_household_score": 3.25,
+    "competition_score": 92.86,
+    "related_store_score": 1.69,
+    "reasons": [
+     "동일 업종(아이스크림·빙수) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 21,
+    "admin_dong": "효자1동",
+    "score": 31.47,
+    "population": 42898,
+    "single_households": 2717,
+    "selected_category_store_count": 85,
+    "related_store_count": 45,
+    "population_score": 71.57,
+    "single_household_score": 32.12,
+    "competition_score": 1.19,
+    "related_store_score": 16.1,
+    "reasons": [
+     "인구 규모가 큰 편",
+     "동일 업종(아이스크림·빙수) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 22,
+    "admin_dong": "소양동",
+    "score": 30.77,
+    "population": 28463,
+    "single_households": 3358,
+    "selected_category_store_count": 86,
+    "related_store_count": 114,
+    "population_score": 45.32,
+    "single_household_score": 40.51,
+    "competition_score": 0.0,
+    "related_store_score": 45.34,
+    "reasons": [
+     "동일 업종(아이스크림·빙수) 경쟁이 치열함"
+    ]
+   },
+   {
+    "rank": 23,
+    "admin_dong": "동산면",
+    "score": 30.71,
+    "population": 5657,
+    "single_households": 380,
+    "selected_category_store_count": 11,
+    "related_store_count": 36,
+    "population_score": 3.86,
+    "single_household_score": 1.53,
+    "competition_score": 89.29,
+    "related_store_score": 12.29,
+    "reasons": [
+     "동일 업종(아이스크림·빙수) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 24,
+    "admin_dong": "남산면",
+    "score": 28.98,
+    "population": 3535,
+    "single_households": 263,
+    "selected_category_store_count": 7,
+    "related_store_count": 16,
+    "population_score": 0.0,
+    "single_household_score": 0.0,
+    "competition_score": 94.05,
+    "related_store_score": 3.81,
+    "reasons": [
+     "동일 업종(아이스크림·빙수) 점포가 적음"
+    ]
+   },
+   {
+    "rank": 25,
+    "admin_dong": "신동면",
+    "score": 28.36,
+    "population": 3679,
+    "single_households": 426,
+    "selected_category_store_count": 8,
+    "related_store_count": 7,
+    "population_score": 0.26,
+    "single_household_score": 2.13,
+    "competition_score": 92.86,
+    "related_store_score": 0.0,
+    "reasons": [
+     "동일 업종(아이스크림·빙수) 점포가 적음"
+    ]
+   }
+  ]
+ }
+}

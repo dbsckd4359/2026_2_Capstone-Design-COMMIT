@@ -1,0 +1,98 @@
+/* ===== 시작 화면 배경: 대한민국 지도 + 임의 지점 마커 (2안 솔리드 블루) ===== */
+/*AI참조*/ 
+.korea-backdrop {
+  position: absolute;
+  inset: 7% 0 0 0;              /* 상단 바(7%) 아래 전체 */
+  z-index: 0;
+  overflow: hidden;
+  background-color:  #E6Eff9;
+  pointer-events: none;         /* 배경이 클릭을 가로채지 않게 */
+}
+
+/* 지도: 모달(가운데 35vw) 오른쪽에 배치 */
+.korea-backdrop__map {
+  position: absolute;
+  right: 1vw;
+  top: 50%;
+  transform: translateY(-50%);
+  width: min(39vw, 88vh);       /* 화면이 낮으면 높이에 맞춰 줄어듦 */
+  aspect-ratio: 1000 / 952;     /* KOREA_VIEWBOX 비율 */
+}
+.korea-backdrop__map > svg { display: block; }
+
+/* 마커: 핀 끝이 지점에 꽂히도록 아래 가운데 기준 */
+.korea-backdrop__pin {
+  position: absolute;
+  margin: -44px 0 0 -17px;
+  z-index: 2;
+  animation: korea-pin-drop 0.55s cubic-bezier(0.3, 1.5, 0.5, 1) both;
+}
+@keyframes korea-pin-drop {
+  from { opacity: 0; transform: translateY(-28px); }
+  40%  { opacity: 1; }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* 퍼지는 원 */
+.korea-backdrop__ripple {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  margin: -32px 0 0 -32px;
+  border: 3px solid #1E3A5F;
+  border-radius: 50%;
+  box-sizing: border-box;
+  animation: korea-ripple 1.4s ease-out 0.2s both;
+}
+@keyframes korea-ripple {
+  from { opacity: 0.9; transform: scale(0.2); }
+  to   { opacity: 0;   transform: scale(1.4); }
+}
+
+/* 지나간 지점 */
+.korea-backdrop__trail {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  margin: -5px 0 0 -5px;
+  border: 2px solid #FFFFFF;
+  border-radius: 50%;
+  box-sizing: border-box;
+  
+  transition: opacity 0.4s ease;
+}
+.korea-backdrop__trail.trail-0 { opacity: 0.9; }
+.korea-backdrop__trail.trail-1 { opacity: 0.6; }
+.korea-backdrop__trail.trail-2 { opacity: 0.35; }
+
+/* 왼쪽 문구 */
+.korea-backdrop__label {
+  position: absolute;
+  left: 4.5vw;
+  top: 50%;
+  width: 22vw;
+  transform: translateY(-50%);
+  text-align: left;
+  animation: korea-label-in 0.5s ease 0.15s both;
+}
+.korea-backdrop__label p { margin: 0; }
+.korea-backdrop__label .eyebrow { margin-bottom: 10px; font-size: 14px; font-weight: 700; color: #2F6DB5; }
+.korea-backdrop__label .region  { font-size: clamp(26px, 2.5vw, 36px); font-weight: 700; line-height: 1.2; color: #1E3A5F; }
+.korea-backdrop__label .place   { margin-top: 6px; font-size: clamp(18px, 1.55vw, 22px); font-weight: 500; color: #475569; }
+@keyframes korea-label-in {
+  from { opacity: 0; transform: translateY(calc(-50% + 12px)); }
+  to   { opacity: 1; transform: translateY(-50%); }
+}
+
+/* 모달을 지도 위로  */
+.start .startPage-box {
+  z-index: 1;
+  background-color: #FFFFFF;
+}
+
+
+@media (prefers-reduced-motion: reduce) {
+  .korea-backdrop__pin,
+  .korea-backdrop__ripple,
+  .korea-backdrop__label { animation: none; }
+}

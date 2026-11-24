@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="9 2 46 60" width="46" height="60" role="img" aria-label="COMMIT">
+  <title>COMMIT</title>
+  <path d="M32 4C20.4 4 11 13.4 11 25c0 15.8 21 35 21 35s21-19.2 21-35C53 13.4 43.6 4 32 4z" fill="#2563EB"/>
+  <rect x="19" y="25" width="7.5" height="11" rx="1.5" fill="#FFFFFF"/>
+  <rect x="28.25" y="19" width="7.5" height="17" rx="1.5" fill="#FFFFFF"/>
+  <rect x="37.5" y="13" width="7.5" height="23" rx="1.5" fill="#FFFFFF"/>
+  <rect x="21.25" y="31" width="3" height="5" fill="#2563EB"/>
+  <rect x="30.5" y="31" width="3" height="5" fill="#2563EB"/>
+  <rect x="39.75" y="31" width="3" height="5" fill="#2563EB"/>
+  <rect x="19" y="23" width="7.5" height="1.5" fill="#FFFFFF"/>
+  <rect x="28.25" y="17" width="7.5" height="1.5" fill="#FFFFFF"/>
+  <rect x="37.5" y="11" width="7.5" height="1.5" fill="#FFFFFF"/>
+</svg>

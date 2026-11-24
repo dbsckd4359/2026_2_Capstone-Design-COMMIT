@@ -1,0 +1,552 @@
+{
+  "신사우동": {
+    "admin_dong": "신사우동",
+    "total": 606,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 223
+      },
+      {
+        "category": "카페",
+        "count": 93
+      },
+      {
+        "category": "일반주점",
+        "count": 145
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 145
+      }
+    ]
+  },
+  "석사동": {
+    "admin_dong": "석사동",
+    "total": 571,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 138
+      },
+      {
+        "category": "카페",
+        "count": 131
+      },
+      {
+        "category": "일반주점",
+        "count": 73
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 229
+      }
+    ]
+  },
+  "교동": {
+    "admin_dong": "교동",
+    "total": 694,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 183
+      },
+      {
+        "category": "카페",
+        "count": 160
+      },
+      {
+        "category": "일반주점",
+        "count": 169
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 182
+      }
+    ]
+  },
+  "후평3동": {
+    "admin_dong": "후평3동",
+    "total": 663,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 215
+      },
+      {
+        "category": "카페",
+        "count": 122
+      },
+      {
+        "category": "일반주점",
+        "count": 118
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 208
+      }
+    ]
+  },
+  "후평1동": {
+    "admin_dong": "후평1동",
+    "total": 613,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 195
+      },
+      {
+        "category": "카페",
+        "count": 188
+      },
+      {
+        "category": "일반주점",
+        "count": 133
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 97
+      }
+    ]
+  },
+  "퇴계동": {
+    "admin_dong": "퇴계동",
+    "total": 722,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 166
+      },
+      {
+        "category": "카페",
+        "count": 185
+      },
+      {
+        "category": "일반주점",
+        "count": 202
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 169
+      }
+    ]
+  },
+  "효자3동": {
+    "admin_dong": "효자3동",
+    "total": 571,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 243
+      },
+      {
+        "category": "카페",
+        "count": 62
+      },
+      {
+        "category": "일반주점",
+        "count": 141
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 125
+      }
+    ]
+  },
+  "후평2동": {
+    "admin_dong": "후평2동",
+    "total": 669,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 241
+      },
+      {
+        "category": "카페",
+        "count": 168
+      },
+      {
+        "category": "일반주점",
+        "count": 95
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 165
+      }
+    ]
+  },
+  "약사명동": {
+    "admin_dong": "약사명동",
+    "total": 607,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 189
+      },
+      {
+        "category": "카페",
+        "count": 159
+      },
+      {
+        "category": "일반주점",
+        "count": 142
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 117
+      }
+    ]
+  },
+  "조운동": {
+    "admin_dong": "조운동",
+    "total": 550,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 143
+      },
+      {
+        "category": "카페",
+        "count": 165
+      },
+      {
+        "category": "일반주점",
+        "count": 104
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 138
+      }
+    ]
+  },
+  "소양동": {
+    "admin_dong": "소양동",
+    "total": 761,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 318
+      },
+      {
+        "category": "카페",
+        "count": 153
+      },
+      {
+        "category": "일반주점",
+        "count": 119
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 171
+      }
+    ]
+  },
+  "강남동": {
+    "admin_dong": "강남동",
+    "total": 508,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 149
+      },
+      {
+        "category": "카페",
+        "count": 123
+      },
+      {
+        "category": "일반주점",
+        "count": 123
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 113
+      }
+    ]
+  },
+  "북산면": {
+    "admin_dong": "북산면",
+    "total": 87,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 24
+      },
+      {
+        "category": "카페",
+        "count": 16
+      },
+      {
+        "category": "일반주점",
+        "count": 22
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 25
+      }
+    ]
+  },
+  "근화동": {
+    "admin_dong": "근화동",
+    "total": 530,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 222
+      },
+      {
+        "category": "카페",
+        "count": 126
+      },
+      {
+        "category": "일반주점",
+        "count": 96
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 86
+      }
+    ]
+  },
+  "사북면": {
+    "admin_dong": "사북면",
+    "total": 71,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 19
+      },
+      {
+        "category": "카페",
+        "count": 12
+      },
+      {
+        "category": "일반주점",
+        "count": 16
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 24
+      }
+    ]
+  },
+  "동면": {
+    "admin_dong": "동면",
+    "total": 84,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 18
+      },
+      {
+        "category": "카페",
+        "count": 18
+      },
+      {
+        "category": "일반주점",
+        "count": 25
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 23
+      }
+    ]
+  },
+  "서면": {
+    "admin_dong": "서면",
+    "total": 56,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 14
+      },
+      {
+        "category": "카페",
+        "count": 13
+      },
+      {
+        "category": "일반주점",
+        "count": 19
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 10
+      }
+    ]
+  },
+  "효자2동": {
+    "admin_dong": "효자2동",
+    "total": 704,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 218
+      },
+      {
+        "category": "카페",
+        "count": 209
+      },
+      {
+        "category": "일반주점",
+        "count": 126
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 151
+      }
+    ]
+  },
+  "신북읍": {
+    "admin_dong": "신북읍",
+    "total": 103,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 42
+      },
+      {
+        "category": "카페",
+        "count": 15
+      },
+      {
+        "category": "일반주점",
+        "count": 20
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 26
+      }
+    ]
+  },
+  "동내면": {
+    "admin_dong": "동내면",
+    "total": 89,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 20
+      },
+      {
+        "category": "카페",
+        "count": 23
+      },
+      {
+        "category": "일반주점",
+        "count": 17
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 29
+      }
+    ]
+  },
+  "동산면": {
+    "admin_dong": "동산면",
+    "total": 77,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 12
+      },
+      {
+        "category": "카페",
+        "count": 18
+      },
+      {
+        "category": "일반주점",
+        "count": 21
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 26
+      }
+    ]
+  },
+  "효자1동": {
+    "admin_dong": "효자1동",
+    "total": 927,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 286
+      },
+      {
+        "category": "카페",
+        "count": 215
+      },
+      {
+        "category": "일반주점",
+        "count": 237
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 189
+      }
+    ]
+  },
+  "남면": {
+    "admin_dong": "남면",
+    "total": 81,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 28
+      },
+      {
+        "category": "카페",
+        "count": 16
+      },
+      {
+        "category": "일반주점",
+        "count": 22
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 15
+      }
+    ]
+  },
+  "남산면": {
+    "admin_dong": "남산면",
+    "total": 81,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 30
+      },
+      {
+        "category": "카페",
+        "count": 18
+      },
+      {
+        "category": "일반주점",
+        "count": 8
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 25
+      }
+    ]
+  },
+  "신동면": {
+    "admin_dong": "신동면",
+    "total": 61,
+    "categories": [
+      {
+        "category": "식당·간이음식",
+        "count": 26
+      },
+      {
+        "category": "카페",
+        "count": 19
+      },
+      {
+        "category": "일반주점",
+        "count": 6
+      },
+      {
+        "category": "베이커리·떡·디저트",
+        "count": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_note": "목데이터 · 세부 업종명과 코드는 가정이며 백엔드 실제 값으로 교체",
+  "industries": [
+    {
+      "code": "FOOD",
+      "name": "식당·간이음식",
+      "subs": [
+        {
+          "code": "FOOD_KOREAN",
+          "name": "한식"
+        },
+        {
+          "code": "FOOD_SNACK",
+          "name": "분식"
+        },
+        {
+          "code": "FOOD_CHICKEN",
+          "name": "치킨"
+        },
+        {
+          "code": "FOOD_PIZZA",
+          "name": "피자·버거"
+        }
+      ]
+    },
+    {
+      "code": "CAFE",
+      "name": "카페",
+      "subs": [
+        {
+          "code": "CAFE_COFFEE",
+          "name": "커피전문점"
+        },
+        {
+          "code": "CAFE_TEA",
+          "name": "차·전통찻집"
+        },
+        {
+          "code": "CAFE_JUICE",
+          "name": "주스·음료"
+        }
+
+      ]
+    },
+    {
+      "code": "PUB",
+      "name": "일반주점",
+      "subs": [
+        {
+          "code": "PUB_HOF",
+          "name": "호프·맥주"
+        },
+        {
+          "code": "PUB_IZAKAYA",
+          "name": "요리주점"
+        },
+        {
+          "code": "PUB_POCHA",
+          "name": "포장마차·실내포차"
+        }
+      ]
+    },
+    {
+      "code": "BAKERY",
+      "name": "베이커리·떡·디저트",
+      "subs": [
+        {
+          "code": "BAKERY_BREAD",
+          "name": "제과점"
+        },
+        {
+          "code": "BAKERY_RICECAKE",
+          "name": "떡·한과"
+        },
+        {
+          "code": "BAKERY_ICE",
+          "name": "아이스크림·빙수"
+        }
+      ]
+    }
+  ]
+}

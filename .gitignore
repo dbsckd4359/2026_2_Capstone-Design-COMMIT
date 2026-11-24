@@ -1,0 +1,14 @@
+
+
+# ── Frontend  ──
+
+node_modules/
+dist/
+
+# ── 로그 ──
+*.log
+npm-debug.log*
+
+# ── 비밀값 (API 키) ──
+.env
+.env.*
