@@ -61,6 +61,7 @@
   
   transition: opacity 0.4s ease;
 }
+/*포인트 지점 투명도 감쇄 */
 .korea-backdrop__trail.trail-0 { opacity: 0.9; }
 .korea-backdrop__trail.trail-1 { opacity: 0.6; }
 .korea-backdrop__trail.trail-2 { opacity: 0.35; }

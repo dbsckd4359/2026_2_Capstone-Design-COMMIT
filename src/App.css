@@ -253,7 +253,7 @@ body {
   width: 100%;
   height: 100vh;
   background-color: var(--accent-light);
-  .startPage-body {}
+  
 
 
   .startPage-scrollBar {
@@ -266,7 +266,11 @@ body {
     gap: 20vw;
     font-size: var(--fs);
       border: none;
+background-color: white;
 
+   a{
+    justify-content: end;
+   }
 
     >.searchs-login {
       align-self: center;
@@ -324,7 +328,7 @@ body {
         span {
           padding: 3%;
           border-radius: var(--btn-border-radius);
-          color: var(--muted);
+        
 
         }
 
@@ -333,7 +337,8 @@ body {
 
           span {
             font-weight: bold;
-            color: black;
+            color: black; 
+            background-color: var(--accent-light);
 
           }
         }
@@ -428,29 +433,6 @@ body {
 
 }
 
-@keyframes rt-in {
-  from {
-    opacity: 0;
-    transform: translateY(100%);
-  }
-
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-@keyframes rt-out {
-  from {
-    opacity: 1;
-    transform: translateY(0);
-  }
-
-  to {
-    opacity: 0;
-    transform: translateY(-100%);
-  }
-}
 
 .SearchMap-container::after {
   content: "";
@@ -506,8 +488,9 @@ body {
         justify-content: center;
 
         span {
+         
           border-radius: var(--btn-border-radius);
-
+         
         }
 
         &:hover {
@@ -515,6 +498,7 @@ body {
 
           span {
             font-weight: bold;
+            color: black;
             background-color: var(--accent-light);
           }
         }
@@ -1124,8 +1108,8 @@ body {
     .search-box {
       display: flex;
       justify-content: space-around;
-      height: 100%;
-
+      height: 100%; 
+      background-color: white;
 
       div[class*='search'] {
         width: 9vw;
@@ -1139,11 +1123,12 @@ body {
 
         span {
           border-radius: var(--btn-border-radius);
+        
         }
 
 
         &:hover {
-          border-bottom: 2px solid var(--btn-color);
+          border-bottom: 1.5px solid var(--btn-color);
 
           span {
             font-weight: bold;

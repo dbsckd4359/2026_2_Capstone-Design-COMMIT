@@ -1,13 +1,23 @@
 # 🔍 상권 분석 창업 입지서비스 : COMMIT 
-![project img banner](/frontend/src/assets/COMMIT-logo-white.svg)
+![project img banner](src/assets/COMMIT-logo-white.svg)
 
 ## 프로젝트 개요
 - **프로젝트명**: 상권분석 창업 입지서비스
 - **저장소명**: 2026_2_capstone-Design
-- **개발 기간**: 2026/11 ~ 
-- **핵심 목표**: 상권관련 공공데이터와 오픈API를 통해 예비창업자가 업종에 대한 입지를 분석하고 상세 분석 결과를 통해
+- **개발 기간**: 2026/11 ~  
+- **대상 지역**: 강원특별자치도 춘천시
+- **핵심 목표**: 상권관련 공공데이터와 오픈API를 통해 예비창업자가 업종에 대한 입지를 분석하고 상세 비교 결과를 통해
   의사결정을 지원합니다.
 
+---
+## 주요 기능
+| 단계 | 기능 | 화면 | 
+| :---: | :---: | :--- | 
+| 1.지도탐색   |춘천시 경계 지도에서 읍/면/동 선택시 업종별 점포 수를 확인| `/docs/images/searchMap.png` 
+| 2.조건설정 |업종 > 세부업종 필터링 |	`/docs/images/condition.png` 
+| 3.입지 추천   | 행정동별 추천 점수,순위,추천 근거 제공. 가중치 조절 시 순위 업데이트 |	`/docs/images/topPage.png` 
+| 4.후보지 비교 | 두 후보동에 대한 상세 추천 점수, 항목에 대한 점수차이 ,보조지표를 통한 상세비교 | `/docs/images/compare.png` 
+---
 
 ---
 ## 기술 스택 
@@ -21,10 +31,10 @@
 | | `chart.js` | 동별 업종 점포수 시각화  | 
 || `naverMap API ` |  춘천시 행정동 경계지도  | 
 | | `CSS` | 별도 라이브러리없이 직접 스타일링   | 
-| **AI (Hint)** | `zutand, chart.js, naverMapAPI` | 사용과 연동방안 참조   |
 | **BackEnd** | python, FastAPI | RestAPI, Swagger문서 |
 |  | CSV데이터 | 점포(업종 소분류),인구,1인가구,시간대별 생활인구 |
 
+> AI활용: `zutand, chart.js, naverMapAPI` 사용법과 연동 방안 참조   
 
 ---
 

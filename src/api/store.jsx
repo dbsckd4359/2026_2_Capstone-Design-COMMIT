@@ -1,7 +1,7 @@
 import mockStoreCount  from  './searchMock.json';
 
 const use_mock = true; //목데이터기반 테스트
-const base = '/api/stores/count?'; // 실제 API 주소
+//const base = '/api/stores/count?'; // 실제 API 주소
  //api호출 읍면동,점포 총계, 업종과 업종 점포수
 export async function getDongStoreCount(admin, {signal} ={}){
 

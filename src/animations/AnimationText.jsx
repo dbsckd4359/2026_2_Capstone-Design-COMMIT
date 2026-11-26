@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-
+import './Animation.css';
 
 export const AnimationText = ({items ,interval}) => {
 

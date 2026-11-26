@@ -19,6 +19,7 @@ export const useFlow = create((set, get) => ({
   // 담기 토글. 가득 찼으면 false 반환 ※플로팅바 상단에 팝업창 활성화
   toggleCompare: (dong) => {
     const { compare } = get();
+    console.log(compare);
     if (compare.includes(dong)) { set({ compare: compare.filter((d) => d !== dong) }); return true; }
     if (compare.length >= MAX_COMPARE) return false;
     set({ compare: [...compare, dong] });

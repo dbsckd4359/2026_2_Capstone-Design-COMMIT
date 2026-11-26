@@ -1,17 +1,19 @@
 import { useEffect, useRef, useState } from 'react';
 import DongLayer from './DongLayer';
 
-
-export  const Map =({ onDongChange })=> {
+//상태끌어올리기 > SearchMap.jsx 
+export  const Map =({ onDongChange })=> { 
   
     const mapRef = useRef(null);
     const [map, setMap] = useState(null);
     const [selected_Dong, setSelected_Dong] = useState(null);
 
     const CLIENT_ID = import .meta.env.VITE_NAVER_CLIENT_KEY //API KEY  
-    const  SEOUL_CENTER = {LAT: 37.5665,LNG: 126.9780}
+  
+    const  SEOUL_CENTER = {LAT: 37.5665,LNG: 126.9780} 
     const CHUNCHEON_CENTER = { lat: 37.8813, lng: 127.7298 }; 
 
+    //구분용 마커좌표
 const places = [
   { name: '춘천시청', lat: 37.8813, lng: 127.7300 },
   { name: '남춘천역', lat: 37.8640, lng: 127.7238 }
@@ -22,6 +24,7 @@ const places = [
 
    const initMap = ()=>{
     const { naver } = window;
+   // console.log(naver);
     if (!naver || !mapRef.current) return;
 
     mapInstance = new naver.maps.Map(mapRef.current, {
@@ -64,10 +67,10 @@ const handleSelect = (feature, source) => {
 
   return (
   <>
-  <div ref={mapRef} className= 'origin-map' style={{ width: '100%', height: '93%' }}  />
+  <div ref={mapRef} className= 'origin-map' style={{ width: '100%', height: '94%' }}  />
       
       
-      {/*지도 중심 직관성을 위한 중심 서클 */}
+      {/*지도 중심 탐색을 위한 중심 서클 */}
         <div  
           style={{
             position: 'absolute', top: '50%', left: '50%',

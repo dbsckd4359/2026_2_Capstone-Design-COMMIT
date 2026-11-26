@@ -25,7 +25,7 @@ export function StartBackdrop() {
   }, []);
 
   const city = CITIES[current];
-  const at = (p) => ({ left: `${p.x}%`, top: `${p.y}%` });
+  const at = (p) => ({ left: `${p.x}%`, top: `${p.y}%` }); //동적 마커 좌표 스타일링 :absolute
 
   return (
     <div className="korea-backdrop" aria-hidden="true">
@@ -42,7 +42,7 @@ export function StartBackdrop() {
           <path d={KOREA_PATH} fill="#2F6DB5" />
         </svg>
 
-        {trail.map((k, n) => (
+        {trail.map((k, n) => ( //ele , index
           <span key={`trail-${k}-${n}`} className={`korea-backdrop__trail trail-${n}`} style={at(CITIES[k])} />
         ))}
 

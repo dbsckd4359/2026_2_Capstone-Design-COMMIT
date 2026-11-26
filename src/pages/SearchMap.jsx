@@ -1,7 +1,7 @@
 import { useState } from "react"
 import { Map as DongMap } from "./Map.jsx"
 import { useDongStoreCount } from "../hock/useDongCount.jsx"
-import { useFlow } from "../store/useFlow"
+import { useFlow } from "../store/useFlow" //전역 상태관리 
 import { StoreGaugeChart } from "../component/chart/SearchMapGuageChart.jsx"
 import { Condition } from "../component/condition/Condition.jsx" 
 //import { NavigationBar } from "../component/Root/NavigationBar.jsx"; 
