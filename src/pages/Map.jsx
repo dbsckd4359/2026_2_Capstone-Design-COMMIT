@@ -8,8 +8,8 @@ export  const Map =({ onDongChange })=> {
     const [map, setMap] = useState(null);
     const [selected_Dong, setSelected_Dong] = useState(null);
 
-    const CLIENT_ID = import .meta.env.VITE_NAVER_CLIENT_KEY //API KEY  
-  
+    //const CLIENT_ID = import .meta.env.VITE_NAVER_CLIENT_KEY //API KEY  
+  const CLIENT_ID =  "z086o37v4y";
     const  SEOUL_CENTER = {LAT: 37.5665,LNG: 126.9780} 
     const CHUNCHEON_CENTER = { lat: 37.8813, lng: 127.7298 }; 
 
